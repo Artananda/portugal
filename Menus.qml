@@ -32,18 +32,6 @@ Menus {
         }
 
         Menuitem {
-            title: "Blog" 
-            url: "blog.html" 
-            icon: ""
-        }
-
-        Menuitem {
-            title: "Book" 
-            url: "book.html" 
-            icon: ""
-        }
-
-        Menuitem {
             title: "Contact" 
             url: "#contact" 
             icon: "" 
@@ -119,16 +107,7 @@ Menus {
             url:"index.html#team" 
             icon:""
         }
-        Menuitem { 
-            title:"Blog" 
-            url:"blog.html" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Book" 
-            url:"book.html" 
-            icon:""
-        }
+        
         Menuitem { 
             title:"Contact" 
             url:"#contact" 
@@ -158,16 +137,7 @@ Menus {
             url:"index.html#team" 
             icon:""
         }
-        Menuitem { 
-            title:"Blog" 
-            url:"blog.html" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Book" 
-            url:"book.html" 
-            icon:""
-        }
+        
         Menuitem { 
             title:"Contact" 
             url:"#contact" 

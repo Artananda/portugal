@@ -36,7 +36,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;Im &lt;strong&gt;Tantra-Bodywork&lt;/strong&gt; wirst du in deiner Sexualität begleitet&lt;/h2&gt;"
+                    text: "&lt;h2&gt; In &lt;strong&gt; Tantra-Bodywork &lt;/strong&gt; you will be accompanied in your sexuality &lt;/h2&gt;"
                 }
             }
         }
@@ -68,53 +68,60 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Tantra-Bodywork&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Hast du auch gerade das Gefühl, dass du genau hier richtig sein könntest?&lt;br&gt;
-		Sagt dir dein Herz, dass du weiterlesen solltest?&lt;br&gt;
-		Verspürst du ein Kribbeln oder hast du vielleicht grad sogar ein ungutes Gefühl im Bauch?
+		Do you also have the feeling that you could be right here? &lt;br&gt;
+		Does your heart tell you to read on? &lt;br&gt;
+		Do you feel a tingling sensation or do you even have a bad feeling in your stomach?
 	&lt;/p&gt; 
 	&lt;p&gt;
-		All dies können Zeichen deines Herzens sein, um dir zu sagen, dass sich etwas entscheidendes in deinem Leben ändern wird, wenn du dich ein wenig mit unserem Angebot auseinander setzt.
+		All of these can be signs of your heart to tell you that something is crucial in 
+		yourself and that your life will change if you take a little look at our offer.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Viele Ängste, Sorgen und Unzufriedenheiten sind eine Folgeerscheinung unserer mangelhaften oder fehlenden Sexualität. Ein unausgefülltes Sexualleben bedeutet aber nicht, dass dies so bleiben muss, denn es gibt qualifizierte Menschen wie uns, die dir mit Tantra Bodywork zur Seite stehen, um dir beizubringen, wieder Spass beim Sex mit deinem Partner zu haben.
+		Many fears, worries and dissatisfactions are a consequence of our
+		deficient or missing sexuality. But an unfilled sex life does not means to stay that 
+		way, because there are qualified people like me,
+		who are at your side with tantra bodywork to teach you, how to have fun again
+		and how to have good, sacret sex with your partner.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Buche doch einfach mal einen Termin bei uns, um dich unverbindlich zu folgenden Themen beraten zu lassen.
+		Just book an appointment with me to get non-binding on the following topics
+		get advice.
 	&lt;/p&gt;
 	&lt;ul&gt;
-		&lt;li&gt;Scham&lt;/li&gt;
-		&lt;li&gt;Orgasmus&lt;/li&gt;
-		&lt;li&gt;Ejakulation&lt;/li&gt;
-		&lt;li&gt;Erektion&lt;/li&gt;
-		&lt;li&gt;Libido / Lust&lt;/li&gt;
-		&lt;li&gt;Ekstase&lt;/li&gt;
-		&lt;li&gt;Intimmassage&lt;/li&gt;
-		&lt;li&gt;Prozessbegleitung&lt;/li&gt;							
+		&lt;Li&gt; Shame &lt;/ li&gt;
+		&lt;Li&gt; Orgasm &lt;/ li&gt;
+		&lt;Li&gt; Ejaculation &lt;/ li&gt;
+		&lt;Li&gt; Erection &lt;/ li&gt;
+		&lt;li&gt; Libido / Lust &lt;/li&gt;
+		&lt;Li&gt; Ecstasy &lt;/ li&gt;
+		&lt;Li&gt; Intimate massage &lt;/ li&gt;
+		&lt;Li&gt; Process support &lt;/ li&gt;						
 	&lt;/ul&gt;
 	&lt;hr&gt;
-	&lt;h2&gt;Ablauf&lt;/h2&gt;
+	&lt;h2&gt;Procedure&lt;/h2&gt;
 	&lt;p&gt;
-		Nach einem etwa einstündigen Vorgespräch werden wir mit dir direkt in die Körperarbeit gehen.&lt;br&gt;  
-		Körperarbeit kann bedeuten, dass wir dir in einer Ganzkörpermassage, welche auch
-		die Genitalien beinhaltet, zeigen, dass auch Dein Körper in der Lage ist Lust und Erregung zu spüren. 
-		Auch wird dein Körper geschult, Orgasmen und Ekstasen zu erleben.&lt;br&gt;
-		Atemübungen werden dich in eine höhere ekstatische Energie bringen.&lt;br&gt;
-		Beckenbodenübungen helfen dir, die Fähigkeit, Orgasmen auszulösen, zu verbessern.&lt;br&gt;
-		Im Orgasmic Yoga zeigen wir dir Masturbationstechniken, mit denen du in der Lage bist, deinen Körper neu zu 
-		entdecken und deine Lust über Stunden zu halten.&lt;br&gt;
-		Auf Wunsch zeigen wir dir, wie du deinen Partner mit einer Intimmassage verwöhnen kannst.&lt;br&gt;
-		Selbst wenn Du noch voller Scham und Vorurteile sein solltest, können wir dir evtl. helfen, in naher Zukunft
- 		deinen ersten sexuellen Höhepunkt zu erleben.&lt;br&gt;
-		Eine erfüllte Sexualität wird dein Leben nachhaltig, positiv verändern.&lt;br&gt;
-		Selbst wenn du noch gar keine sexuelle Erfahrung haben solltest, können wir dir helfen, deinen Körper und die 
-		Sexualität zu entdecken, damit du in deiner ersten Beziehung nicht unerfahren dastehen musst.
+		After an approximately one-hour preliminary talk, I will go directly into bodywork with you.
+		Bodywork can mean that I give you a full body massage, which includes genitals, 
+		show that your body is also able to feel pleasure and excitement.
+		Your body will also be trained to experience orgasms and ecstasies. &lt;br&gt;
+		Breathing exercises will bring you into a higher ecstatic energy.
+		Pelvic floor exercises help you improve your ability to trigger orgasms. &lt;br&gt;
+		In Orgasmic Yoga I show you masturbation techniques with which you are able to re-energize your body
+		discover and keep your lust for hours. &lt;br&gt;
+		On request, I will show you how you can pamper your partner with an intimate massage. &lt;br&gt;
+		Even if you are still full of shame and prejudice, I may be able to help you in the near future
+ 		to experience your first sexual climax. &lt;br&gt;
+		A fulfilled sexuality will change your life sustainably, positively. &lt;br&gt;
+		Even if you have no sexual experience at all, I can help you an your body
+		to discover sexuality, so that you don&#x27;t have to be inexperienced in your first relationship.	
 	&lt;/p&gt;
-	&lt;p&gt;
-		Begleiter: &lt;a href=&quot;index.html#art&quot;&gt;Art&lt;/a&gt;
-	&lt;/p&gt;	
+	
 &lt;/div&gt;"
                 }
             }
+        }
+
+        Row {
         }
     }
 }

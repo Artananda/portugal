@@ -175,7 +175,8 @@ Content {
 		In the massages we can dissolve blockages and ensure that your life energy, your prana 
 		comes back flowing and your health will be restored.
 	&lt;/p&gt; 
-&lt;/div&gt;"
+&lt;/div&gt;
+"
                     adminlabel: "Willkommen"
                 }
             }
@@ -196,8 +197,8 @@ Content {
 	&lt;li data-option-value=&quot;*&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Show all&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.sessions&quot;&gt;&lt;a href=&quot;#&quot;&gt;Session&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.massages&quot;&gt;&lt;a href=&quot;#&quot;&gt;Massages&lt;/a&gt;&lt;/li&gt;
-	&lt;!--li data-option-value=&quot;.coachings&quot;&gt;&lt;a href=&quot;#&quot;&gt;Coaching&lt;/a&gt;&lt;/li&gt;
-	&lt;li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li--&gt;
+	&lt;li data-option-value=&quot;.coachings&quot;&gt;&lt;a href=&quot;#&quot;&gt;Coaching&lt;/a&gt;&lt;/li&gt;
+	&lt;!--li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li--&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;row&quot;&gt;
 	&lt;ul class=&quot;sort-destination isotope&quot; data-sort-id=&quot;isotope-list&quot;&gt;
@@ -237,7 +238,7 @@ Content {
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
-		&lt;!--
+		
 
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 coachings&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
@@ -257,6 +258,7 @@ Content {
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
+&lt;!--
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 coachings&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
