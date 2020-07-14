@@ -387,9 +387,9 @@ Content {
 				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/olaf.jpg&quot; width=&quot;263&quot; height=&quot;263&quot; alt=&quot;&quot;/&gt;
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;Art Anidos Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Lourinhã +351 969 312 808&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Lourinhã.&lt;/p&gt;
+				&lt;h4&gt;Olaf Art Ananda&lt;/h4&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Monchique +351 969 31 28 08&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Monchique.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
