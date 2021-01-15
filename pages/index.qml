@@ -387,9 +387,9 @@ Content {
 				&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/olaf.jpg&quot; width=&quot;263&quot; height=&quot;263&quot; alt=&quot;&quot;/&gt;
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
-				&lt;h4&gt;Olaf Art Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Monchique +351 969 31 28 08&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Monchique.&lt;/p&gt;
+				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Alentejo +351 969 31 28 08&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Alentejo next to Odemira (Portugal).&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -412,7 +412,8 @@ Content {
 	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; has been a software deveoper and designer, until he attended 
 	into a tantra massage workshop in 2014.
 	Since that day he has completely changed his life. He gave up his well-paid job in Switzerland.
-	Moved to Denmark to finally start life (kitesurfing).
+	Moved to Denmark to finally start life (kitesurfing). He is now in Portugal to help to creat communities 
+	and also to help to create a new economy based on truth and love.
 	&lt;/p&gt;
 	&lt;p&gt;
 	After various massage training he developed his very own massage, 
