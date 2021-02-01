@@ -434,6 +434,7 @@ Diese kurze Geschichte spielt im Jahre 2039, wir leben auf der Insel Isla Margar
 Aber du kannst auch jetzt schon anfangen, dein eigenes Paradies zu schaffen, unabhängig von politischen Entscheidungen.&lt;br/&gt;
 Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
 &lt;/p&gt;"
+                    adminlabel: "Camp Eden"
                 }
             }
         }
@@ -461,7 +462,7 @@ Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;hhttp://www.artoftouch.site/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -500,6 +501,7 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;hhttp://www.artoftouch.site/a
 	So ganz nebenbei erklärt Art, wie er das Energie-Problem des Planeten Erde gelöst hat.&lt;br/&gt;
 	Wir hoffen, das du etwas aus diesem Buch für dich persönlich mitnehmen kannst und wenn nicht, ist es ja auch nicht schlimm.
 &lt;/p&gt;"
+                    adminlabel: "Die Kunst zu Leben und zu Lieben"
                 }
             }
         }
