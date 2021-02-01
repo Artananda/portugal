@@ -388,8 +388,8 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Alentejo +351 969 31 28 08&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Alentejo next to Odemira (Portugal).&lt;/p&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Portugal +351 969 31 28 08&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Portugal.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;

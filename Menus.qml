@@ -32,6 +32,11 @@ Menus {
         }
 
         Menuitem {
+            title: "Books" 
+            url: "book.html" 
+            icon:""
+        }
+        Menuitem {
             title: "Contact" 
             url: "#contact" 
             icon: "" 
@@ -66,13 +71,7 @@ Menus {
         }
 
         Menuitem {
-            title: "Blog" 
-            url: "blog.html" 
-            icon: ""
-        }
-
-        Menuitem {
-            title: "Book" 
+            title: "Books" 
             url: "book.html" 
             icon:""
         }
@@ -107,6 +106,12 @@ Menus {
             url:"index.html#team" 
             icon:""
         }
+
+        Menuitem {
+            title: "Books" 
+            url: "book.html" 
+            icon:""
+        }
         
         Menuitem { 
             title:"Contact" 
@@ -138,6 +143,12 @@ Menus {
             icon:""
         }
         
+        Menuitem {
+            title: "Books" 
+            url: "book.html" 
+            icon:""
+        }
+
         Menuitem { 
             title:"Contact" 
             url:"#contact" 
