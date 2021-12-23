@@ -43,7 +43,7 @@ Content {
 
                 Text {
                     text: "&lt;h1&gt;&lt;strong&gt;Post Corona Gesellschaft&lt;/strong&gt;&lt;/h1&gt;
-&lt;p class=&quot;lead&quot;&gt;
+&lt;p class=&quot;lead&quot;&gt; 
 Wir machen gerade schwere Zeiten durch.&lt;/br&gt;
 Viele Menschen haben derzeit einfach nur Angst. &lt;/br&gt;
 Die einen fürchten den Tod durch einen Virus, den sie nicht einmal sehen können. Ein Virus, der so klein ist, 
