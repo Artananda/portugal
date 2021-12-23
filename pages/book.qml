@@ -34,6 +34,70 @@ Content {
                 span: 4
 
                 Image {
+                    src: "cover_postcorona.png"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Post Corona Gesellschaft&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt;
+Wir machen gerade schwere Zeiten durch.&lt;/br&gt;
+Viele Menschen haben derzeit einfach nur Angst. &lt;/br&gt;
+Die einen fürchten den Tod durch einen Virus, den sie nicht einmal sehen können. Ein Virus, der so klein ist, 
+das man sich fragen muss, warum wir immer noch diese Masken tragen müssen, wo der doch einfach durch die
+Maschen durchschlüpfen kann. &lt;/br&gt;
+Die anderen haben Angst, ihre Existensgrundlage zu verlieren, weil sie, wegen der drohenden Impflicht für 
+diverse Berufsgruppen, zur Kündigung gezwungen werden.&lt;/br&gt;
+Und die anderen Menschen fürchten die Umwandlung der Demokratie zur Diktatur und damit eine Gewaltherrschafft.&lt;/br&gt;&lt;/br&gt;
+
+In diesem Buch möchte ich euch aufzeigen, wie wir da wieder rauskommen werden.&lt;/br&gt;
+Einen Weg, wie wir das Zepter wieder selber in die Hand nehmen werden und das völlig gewaltfrei.
+&lt;/p&gt;"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+	&lt;h3&gt;Das Buch ist bald auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Bald&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "Callout"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/PostCoronaGesellschaft.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
                     src: "cover_conversation.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
