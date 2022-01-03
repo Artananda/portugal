@@ -388,8 +388,9 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Portugal +351 969 31 28 08&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Portugal.&lt;/p&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Telegram: +351 969 312 808&lt;/small&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Tel/SMS: +49 163 50 31 438&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Berlin.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -409,11 +410,12 @@ Content {
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h3&gt;About &lt;strong&gt;Art&lt;/strong&gt;&lt;/h3&gt;
-	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; has been a software deveoper and designer, until he attended 
+	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; has been a software developer and designer, until he attended 
 	into a tantra massage workshop in 2014.
 	Since that day he has completely changed his life. He gave up his well-paid job in Switzerland.
-	Moved to Denmark to finally start life (kitesurfing). He is now in Portugal to help to creat communities 
+	Moved to Denmark to finally start life (kitesurfing). He has been in Portugal lately to help to creat communities 
 	and also to help to create a new economy based on truth and love.
+	He is currently in Berlin (Germany).
 	&lt;/p&gt;
 	&lt;p&gt;
 	After various massage training he developed his very own massage, 
