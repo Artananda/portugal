@@ -34,7 +34,70 @@ Content {
                 span: 4
 
                 Image {
+                    src: "cover_heldenreise.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/MeineHeldenreise.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Meine Heldenreise&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt; 
+Ich habe damals ein Buch über eine Community in Portugal geschrieben, die ich dort gründen wollte.&lt;/br&gt;
+Nachdem dieses Buch verlegt wurde, spürte ich ein Kribbeln und ich wollte mein Buch nun auch leben.&lt;/br&gt;
+Mit nur 300,- € in der Tasche fur ich mit meinem Wohnmobil, gegen jede Vernunft, los, denn ich wußte, 
+das ich es trotzdem schaffen werde.&lt;/br&gt;&lt;/br&gt;
+
+Dieses Buch beschreibt meine Reise und was ich alles in den letzten zwei Jahren unterwegs erlebt habe.&lt;/br&gt;
+Lass dich auf ein Abenteuer ein und lass dich motivieren, deine ganz eigene Reise anzutreten.&lt;/br&gt;
+&lt;/p&gt;"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+	&lt;h3&gt;Das Buch ist ab bald auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Bald&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "CALLOUT"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
                     src: "cover_postcorona.png"
+                    animation: "fadeIn"
+                    animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/PostCoronaGesellschaft.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
                 }
             }
 
@@ -75,19 +138,6 @@ Einen Weg, wie wir das Zepter wieder selber in die Hand nehmen werden und das v�
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/PostCoronaGesellschaft.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -101,6 +151,12 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                     src: "cover_conversation.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/Conversation.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
                 }
             }
 
@@ -141,19 +197,6 @@ The author had this conversation and wrote it into this book.
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/Conversation.pdf&quot;&gt;PDF&lt;/a&gt;.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -167,6 +210,12 @@ Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/ass
                     src: "cover_unterhaltung.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Unterhaltung.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
                 }
             }
 
@@ -207,19 +256,6 @@ Der Autor hatte dieses Gespräch und schrieb es in dieses Buch.
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Unterhaltung.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -233,6 +269,12 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                     src: "cover_theart.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/theartoflivingandloving.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
                 }
             }
 
@@ -269,19 +311,6 @@ We hope that you can take something from this book with you personally and if no
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/theartoflivingandloving.pdf&quot;&gt;PDF&lt;/a&gt;.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -295,6 +324,12 @@ Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/ass
                     src: "Cover_manifestation.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Manifestation.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
                 }
             }
 
@@ -336,19 +371,6 @@ Das Buch zeigt Techniken von Willenskraft, über Ängste, Psych-K bis zum Schrei
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Manifestation.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -362,6 +384,12 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                     src: "CoverCampEdenEN.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEdenEN.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
                 }
             }
 
@@ -396,19 +424,6 @@ We invite you to use your creative energy now.
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEdenEN.pdf&quot;&gt;PDF&lt;/a&gt;.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -422,6 +437,12 @@ Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/ass
                     src: "CoverSetpOut.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/StepOut.pdf&quot;&gt;PDF&lt;/a&gt;.
+&lt;/p&gt;"
                 }
             }
 
@@ -458,19 +479,6 @@ We are the ones we’ve been waiting for, and the time is now.&quot;**&lt;/br&gt
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/StepOut.pdf&quot;&gt;PDF&lt;/a&gt;.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -484,6 +492,12 @@ Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/ass
                     src: "coverebook.jpeg"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
                 }
             }
 
@@ -518,19 +532,6 @@ Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
                 }
             }
         }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
-&lt;/p&gt;"
-                }
-            }
-        }
     }
 
     Section {
@@ -543,6 +544,12 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                 Image {
                     src: "/home/olaf/FlatSiteBuilder/sources/artananda/assets/images/Cover3d.png"
                     animation: "fadeInLeft"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/DieKunstZuLebenUndZuLieben.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
                 }
             }
 
@@ -582,19 +589,6 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
-                }
-            }
-        }
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/DieKunstZuLebenUndZuLieben.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
-&lt;/p&gt;"
                 }
             }
         }
