@@ -72,7 +72,7 @@ Lass dich auf ein Abenteuer ein und lass dich motivieren, deine ganz eigene Reis
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Das Buch ist ab bald auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Bald&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B09PNQ8MPL&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "CALLOUT"
