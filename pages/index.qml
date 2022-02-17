@@ -388,7 +388,7 @@ Content {
 			&lt;/figure&gt;
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Telegram: +351 969 312 808&lt;/small&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Telegram: &lt;a href=&quot;https://t.me/artanidos&quot;&gt;@artanidos&lt;/a&gt;&lt;/small&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Tel/SMS: +49 163 50 31 438&lt;/small&gt;
 				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Berlin.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
