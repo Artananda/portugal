@@ -337,7 +337,7 @@ Content {
                     text: "&lt;h2&gt;&lt;strong&gt;Prices&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;white-row&quot;&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	For a treatment I will charge you 50, - € per hour.	
+	For a treatment I will charge you 60,- € per hour.	
 &lt;/p&gt;
 &lt;p&gt;
 	If you cannot afford this, please contact me in advance so that I can find a solution.
