@@ -60,6 +60,7 @@ das ich es trotzdem schaffen werde.&lt;/br&gt;&lt;/br&gt;
 Dieses Buch beschreibt meine Reise und was ich alles in den letzten zwei Jahren unterwegs erlebt habe.&lt;/br&gt;
 Lass dich auf ein Abenteuer ein und lass dich motivieren, deine ganz eigene Reise anzutreten.&lt;/br&gt;
 &lt;/p&gt;"
+                    adminlabel: "Meine Heldenreise"
                 }
             }
         }
@@ -119,6 +120,7 @@ Und die anderen Menschen fürchten die Umwandlung der Demokratie zur Diktatur un
 In diesem Buch möchte ich euch aufzeigen, wie wir da wieder rauskommen werden.&lt;/br&gt;
 Einen Weg, wie wir das Zepter wieder selber in die Hand nehmen werden und das völlig gewaltfrei.
 &lt;/p&gt;"
+                    adminlabel: "Post Corona Gesellschaft"
                 }
             }
         }
@@ -321,7 +323,7 @@ We hope that you can take something from this book with you personally and if no
                 span: 4
 
                 Image {
-                    src: "Cover_manifestation.png"
+                    src: "Cover.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
                 }
