@@ -3,8 +3,8 @@ import TextEditor 1.0
 import ImageEditor 1.0
 
 Content {
-    title: "Bücher"
-    menu: "book"
+    title: "Books"
+    menu: "book_en"
     author: "Artanidos"
     keywords: "tantra,sex,bodywork,massage,book"
     layout: "default"
@@ -16,10 +16,10 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;h1&gt;Art&#x27;s Bücher&lt;/h1&gt;
+&lt;h1&gt;Art&#x27;s Books&lt;/h1&gt;
 &lt;ul class=&quot;breadcrumb&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Art of Touch&lt;/a&gt;&lt;/li&gt;
-&lt;li class=&quot;active&quot;&gt;Bücher&lt;/li&gt;
+&lt;li class=&quot;active&quot;&gt;Books&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/header&gt;"
@@ -73,7 +73,7 @@ Lass dich auf ein Abenteuer ein und lass dich motivieren, deine ganz eigene Reis
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B09PNQ8MPL&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B09PNQ8MPL&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "CALLOUT"
@@ -133,7 +133,7 @@ Einen Weg, wie wir das Zepter wieder selber in die Hand nehmen werden und das v�
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de/dp/B09P45LYDB&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://www.amazon.de/dp/B09P45LYDB&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -192,7 +192,7 @@ The author had this conversation and wrote it into this book.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B08VHQ4BXK&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B08VHQ4BXK&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -251,7 +251,7 @@ Der Autor hatte dieses Gespräch und schrieb es in dieses Buch.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08VHPHC3F&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08VHPHC3F&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -306,7 +306,7 @@ We hope that you can take something from this book with you personally and if no
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B08R7T9FND&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B08R7T9FND&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -366,7 +366,7 @@ Das Buch zeigt Techniken von Willenskraft, über Ängste, Psych-K bis zum Schrei
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08CB8Q54L&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/de/dualbookshelf.marketplacelink/B08CB8Q54L&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -419,7 +419,7 @@ We invite you to use your creative energy now.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B086C8MTP3&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B086C8MTP3&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -474,7 +474,7 @@ We are the ones we’ve been waiting for, and the time is now.&quot;**&lt;/br&gt
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B086C8Z9MY&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://kdp.amazon.com/amazon-dp-action/uk/dualbookshelf.marketplacelink/B086C8Z9MY&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -527,7 +527,7 @@ Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de/dp/B07Y9T5KN5&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://www.amazon.de/dp/B07Y9T5KN5&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -587,7 +587,7 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;Amazon&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://www.amazon.de/Artananda-Olaf-Japp/e/B079VN4TF6/ref=sr_ntt_srch_lnk_1?qid=1518947049&amp;sr=8-1&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;You can get my book now on &lt;strong&gt;Amazon&lt;/strong&gt;.&lt;a href=&quot;https://www.amazon.de/Artananda-Olaf-Japp/e/B079VN4TF6/ref=sr_ntt_srch_lnk_1?qid=1518947049&amp;sr=8-1&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Get It&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
@@ -604,13 +604,12 @@ Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/as
                 span: 12
 
                 Text {
-                    text: "&lt;h1&gt;Dankbarkeit&lt;/h1&gt;
+                    text: "&lt;h1&gt;Gratitude&lt;/h1&gt;
 &lt;p class=&quot;lead&quot;&gt;
-Für den Fall, das du eines dieser Bücher kostenlos erhalten hast und deine Dankbarkeit ausdrücken möchtest, kannst du dies tun, 
-in dem du dieses Buch an deine Freunde, Bekannte und Kollegen weiter empfiehlt, du kannst dich mit einer Spende via 
-&lt;a href=&quot;https://www.patreon.com/artananda&quot;&gt;Patreon&lt;/a&gt;
-erkenntlich zeigen und du kannst &lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; auch direkt schreiben und dich bedanken und eventuell deine persönliche Hilfe anbieten.
-Du hast natürlich auch noch die Möglichkeit das Buch käuflich zu erwerben. 
+In the event that you have received one of these books for free and want to express your gratitude, you can do so,
+by recommending this book to your friends, acquaintances and colleagues, you can make a donation
+via &lt;a href=&quot;https://www.patreon.com/artananda&quot;&gt;Patreon&lt;/a&gt; and you can write to &lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; directly and say thank you and possibly offer your personal help. &lt;br/&gt;
+Of course, you also have the option of purchasing on of his books.
 &lt;/p&gt;"
                     adminlabel: "Gratitude"
                 }

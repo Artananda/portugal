@@ -34,7 +34,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;Die &lt;strong&gt; Prana Flow Massage &lt;/strong&gt; bringt dein Energiesystem in Wallung&lt;/h2&gt;"
+                    text: "&lt;h2&gt;The &lt;strong&gt; Prana Flow Massage &lt;/strong&gt; gets your energy system going&lt;/h2&gt;"
                 }
             }
         }
@@ -64,18 +64,30 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Massage&lt;/strong&gt;&lt;/h3&gt;
 	&lt;p&gt;
-Prana ist reine Lebensenergie, die durch den ganzen Körper fliessen kann, wenn das natürliche Gleichgewicht im Menschen harmonisch 
-ist. 
+Prana is pure life energy that can flow through the whole body,
+when the natural balance in humans is harmonious.
 &lt;/p&gt;
 &lt;p&gt;
-Fliesst das Prana ungehindert fühlen wir uns vital und voller Lebenslust. Energetische und sexuelle Blockaden können mit der Prana Flow Massage sanft gelöst werden. Alte Wunden die noch im Energiesystem gespeichert sind dürfen sich zeigen und auflösen. 
+If the prana flows freely, we feel vital and full of joy and fun.
+Energetic and sexual blockages can be gentle solved with the Prana Flow Massage.
+Old wounds that are still stored in the energy system may show up and
+dissolve.
 &lt;/p&gt;
 &lt;p&gt;
-Mit sanfter Massage und gezielten Druck werden die verschiedenen Energiepunkte am Körper angeregt und Blockaden aufgespürt. Die freigesetzte Energie wird im Körper ausgestrichen und verteilt. Sobald die Energie wieder fliessen kann wird hauptsächlich nur noch mit dem feinstofflichen Körper gearbeitet. Auf diese Weise können intensive Energiewellen, bis hin zu orgastischen Gefühlen den Körper durchströmen. Das sexuelle Erleben wird danach intensiver und neue spirituelle Dimensionen können sich dadurch öffnen. Es unterstützt auf natürliche Weise eine frei fliessende Lebensenergie. 
+With a combination of gentle massage and targeted pressure, various energy points will 
+be stimulated and blockages can be detected.
+The energy released is spread out and distributed in the body.
+As soon as the energy can flow again, I mainly work with your energy body (prana-maya cocha). 
+In this way, intense energy waves,
+flow through the body to orgasmic feelings.
+The sexual experience then becomes more intense and new spiritual dimensions
+can open up.
+It supports a free flowing life energy in a natural way.
 &lt;/p&gt;
 &lt;p&gt;
-Eine Prana-Flow-Massage kann auch ein sanfter Einstieg für Frauen und Männer sein, die keine intime Berührungen wünschen. 
-Auf Wunsch kann aber auch eine &lt;a data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; data-original-title=&quot;Der Lingam-Massage ist die Massage des Penis&quot; href=&quot;#&quot;&gt; Lingam - &lt;/a&gt; oder &lt;a data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; data-original-title=&quot;Die Yoni-Massage ist die Massage der Vagina&quot; href=&quot;#&quot;&gt; Yoni-Massage &lt;/a&gt; integriert werden, um noch mehr Energie freizusetzen. 
+A prana flow massage can also be a gentle start for women and men,
+who don&#x27;t want intimate touches. On request, however, a &lt;a data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; data-original-title=&quot;The lingam massage is a massage of the penis&quot; href=&quot;#&quot;&gt; Lingam - &lt;/ a &gt; or
+&lt;a data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot; data-original-title=&quot;The yoni massage is the massage of the vagina&quot; href=&quot;#&quot;&gt; Yoni massage &lt;/a&gt; release even more energy.
 &lt;/p&gt;							
 &lt;/div&gt;"
                 }

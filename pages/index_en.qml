@@ -4,7 +4,7 @@ import TextEditor 1.0
 
 Content {
     title: "Art of Touch"
-    menu: "default"
+    menu: "default_en"
     author: "Olaf"
     layout: "default"
     date: "2017-10-20"
@@ -78,9 +78,9 @@ Content {
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
 	style=&quot;z-index: 8&quot;&gt;		
-	Namast&amp;eacute;, bei mir wirst du dich ganz neu entdecken.&lt;br&gt;
-	Ich werde dir Wege zu deiner Sexualität zeigen,&lt;br&gt;
-	von denen Du nicht einmal zu träumen wagtest.							
+	Namast&amp;eacute;, you will rediscover yourself with me.&lt;br&gt;
+	I&#x27;ll show you ways to your sexuality&lt;br&gt;
+	that you didn&#x27;t even dare to dream of.							
 								
 &lt;/div&gt;"
             }
@@ -111,8 +111,8 @@ Content {
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
 	style=&quot;z-index: 8; color: white;&quot;&gt; 
-	&lt;strong&gt;Ich werde dir einen achtsamen Raum öffnen in dem&lt;br /&gt;
-	du dich ganz hingeben und fallen lassen kannst.&lt;/strong&gt;
+	&lt;strong&gt;I will open a mindful room for you in which &lt;br /&gt;
+	you can surrender completely and let yourself fall.&lt;/strong&gt;
 &lt;/div&gt;"
             }
 
@@ -142,9 +142,8 @@ Content {
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
 	style=&quot;z-index: 8;&quot;&gt; 
-	&lt;strong&gt;Im Coaching begleite ich dich in deiner&lt;/br&gt;
-	 Sexualität und zeige dir Wege auf, um noch mehr Lust&lt;/br&gt;
-	zu empfinden.
+	&lt;strong&gt;In coaching I accompany you in your sexuality&lt;br /&gt;
+	 and show you ways to get even more lust to feel.
 	&lt;/strong&gt;
 &lt;/div&gt;"
             }
@@ -160,20 +159,21 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h1&gt;&lt;strong&gt;Willkommen&lt;/strong&gt; bei Art of Touch&lt;/h1&gt;
-	&lt;p class=&quot;lead&quot;&gt;Schau dich ruhig um und mach dich mit meinem Angebot vertraut.&lt;/p&gt;
+	&lt;h1&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to Art of Touch&lt;/h1&gt;
+	&lt;p class=&quot;lead&quot;&gt;Take a look around and familiarize yourself with my offer.&lt;/p&gt;
 			
 	&lt;p&gt;
-		Bei mir begibst du dich in die Tiefen deiner Seele und wirst deinen Körper ganz neu kennenlernen.
-		Ich werde dich auf deinem Weg mit meinen Massagen und Coachings begleiten. 
+		With me you go into the depths of your soul and you will get to know your body 
+		from scratch. &lt;br&gt;
+		I will accompany you on your way with my massages and coaching.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Im Coaching können wir alte Probleme auflösen, aber auch ganz neue Dinge ausprobieren.
-		Du alleine bestimmst das Tempo und nur du kannst deine eigenen Grenzen Überschreiten um zu wachsen. 
+		In coaching we can solve old problems, but we can also try out completely new things.
+		You alone determine the speed and only you can exceed your own limits to grow.
 	&lt;/p&gt; 
 	&lt;p&gt;
-		In den Massagen können wir Blockaden auflösen und dafür sorgen, dass deine Lebensenergie, dein Prana wieder 
-		ins Fließen kommt und damit deine Gesundheit wieder hergestellt werden. 
+		In the massages we can dissolve blockages and ensure that your life energy, your prana 
+		comes back flowing and your health will be restored.
 	&lt;/p&gt; 
 &lt;/div&gt;
 "
@@ -194,9 +194,9 @@ Content {
                 Text {
                     text: "&lt;h2&gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul class=&quot;nav nav-pills isotope-filter isotope-filter&quot; data-sort-id=&quot;isotope-list&quot; data-option-key=&quot;filter&quot;&gt;
-	&lt;li data-option-value=&quot;*&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Alle zeigen&lt;/a&gt;&lt;/li&gt;
-	&lt;li data-option-value=&quot;.sessions&quot;&gt;&lt;a href=&quot;#&quot;&gt;Sessions&lt;/a&gt;&lt;/li&gt;
-	&lt;li data-option-value=&quot;.massages&quot;&gt;&lt;a href=&quot;#&quot;&gt;Massagen&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;*&quot; class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Show all&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.sessions&quot;&gt;&lt;a href=&quot;#&quot;&gt;Session&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.massages&quot;&gt;&lt;a href=&quot;#&quot;&gt;Massages&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.coachings&quot;&gt;&lt;a href=&quot;#&quot;&gt;Coaching&lt;/a&gt;&lt;/li&gt;
 	&lt;!--li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li--&gt;
 &lt;/ul&gt;
@@ -205,7 +205,7 @@ Content {
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 sessions&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;prana-flow-healing.html&quot;&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;prana-flow-healing_en.html&quot;&gt;
 						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 						&lt;span class=&quot;inner&quot;&gt;
 							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
@@ -223,7 +223,7 @@ Content {
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 massages&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;prana-flow-massage.html&quot;&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;prana-flow-massage_en.html&quot;&gt;
 						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 						&lt;span class=&quot;inner&quot;&gt;
 							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
@@ -243,7 +243,7 @@ Content {
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 coachings&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;tantra-bodywork.html&quot;&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;tantra-bodywork_en.html&quot;&gt;
 						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 						&lt;span class=&quot;inner&quot;&gt;
 							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
@@ -334,16 +334,16 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;&lt;strong&gt;Preise&lt;/strong&gt;&lt;/h2&gt;
+                    text: "&lt;h2&gt;&lt;strong&gt;Prices&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;white-row&quot;&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Für eine Behandlung werden wir Dir 60,- € pro Stunde berechnen.
+	For a treatment I will charge you 60,- € per hour.	
 &lt;/p&gt;
 &lt;p&gt;
-	Solltest Du Dir das nicht leisten können, so kontaktiere mich bitte im Vorfeld, damit wir eine Lösung finden können. 
+	If you cannot afford this, please contact me in advance so that I can find a solution.
 &lt;/p&gt;
 &lt;p&gt;
-	Die Preise für die Workshops entnehme bitte aus den jeweiligen Workshop-Details. 
+	The prices for the workshops can be found in the respective workshop details.
 &lt;/p&gt;
 &lt;/div&gt;
 
@@ -390,7 +390,7 @@ Content {
 				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Telegram: &lt;a href=&quot;https://t.me/artanidos&quot;&gt;@artanidos&lt;/a&gt;&lt;/small&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Tel/SMS: +49 163 50 31 438&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; ist zur Zeit in Berlin verfügbar.&lt;/p&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Berlin.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -409,15 +409,18 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;Über &lt;strong&gt;Art&lt;/strong&gt;&lt;/h3&gt;
-	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; war lange Zeit Softwareentwickler und Designer, bis er 2014 seinen ersten Tantramassage-Workshop 
-	besucht hat. Seit dem Tag hat er sein Leben komplett umgekrempelt. Er hat seinen gut bezahlten Job in der Schweiz an den 
-	Nagel gehängt, ist nach Dänemark gezogen, um endlich mit dem Leben anzufangen. 
+	&lt;h3&gt;About &lt;strong&gt;Art&lt;/strong&gt;&lt;/h3&gt;
+	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; has been a software developer and designer, until he attended 
+	into a tantra massage workshop in 2014.
+	Since that day he has completely changed his life. He gave up his well-paid job in Switzerland.
+	Moved to Denmark to finally start life (kitesurfing). He has been in Portugal lately to help to creat communities 
+	and also to help to create a new economy based on truth and love.
+	He is currently in Berlin (Germany).
 	&lt;/p&gt;
 	&lt;p&gt;
-	Nach diversen Massage-Ausbildungen hat er seine ganz eigene Massage, die &lt;a href=&quot;prana-flow-massage.html&quot;&gt;Prana-Flow-Massage&lt;/a&gt;
-	entwickelt. 
-	Designen tut Art heute noch, was man an dieser Webseite sehen kann. 
+	After various massage training he developed his very own massage, 
+	the &lt;a href=&quot;prana-flow-massage.html&quot;&gt;prana flow massage&lt;/a&gt;.
+	Art is still into design, you can see on this website.
 	&lt;/p&gt;
 &lt;/div&gt;
 "
@@ -425,23 +428,23 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-&lt;h3&gt;&lt;strong&gt;Ausbildung&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-	&lt;li&gt;Lomi Lomi Nui 2 (Anja und Jana Goralski)&lt;/li&gt;
-	&lt;li&gt;Lomi Lomi Nui 1 (Anja und Jana Goralski)&lt;/li&gt;
+	&lt;li&gt;Lomi Lomi Nui 2 (Anja and Jana Goralski)&lt;/li&gt;
+	&lt;li&gt;Lomi Lomi Nui 1 (Anja and Jana Goralski)&lt;/li&gt;
 	&lt;li&gt;Tantramassage Level 2 (Suriya, Eva, Saranam)&lt;/li&gt;
 	&lt;li&gt;Yin-Yang-Massage (Frank Lerch)&lt;/li&gt;
 	&lt;li&gt;Lingam Intensiv (Suriya, Eva)&lt;/li&gt;
 	&lt;li&gt;Tantramassage Level 1 (Suriya, Eva, Saranam)&lt;/li&gt;
 	&lt;li&gt;The Art of Touch 2 (Somananda Moses Maimon)&lt;/li&gt;
-	&lt;li&gt;Training als Sexological Bodyworker (Didi Liebold, Janine Hug)&lt;/li&gt;
+	&lt;li&gt;Training as a Sexological Bodyworker (Didi Liebold, Janine Hug)&lt;/li&gt;
 	&lt;li&gt;Beckenboden, Anal- und Prostatamassage (Jacqueline Schönbächler, Dr. Eva Thiel)&lt;/li&gt;
 	&lt;li&gt;Yonimassage Aufbaukurs (Jacqueline Schönbächler)&lt;/li&gt;
 	&lt;li&gt;Basis training Tantra Massage (Jacqueline Schönbächler)&lt;/li&gt;
 	&lt;li&gt;Study Human Computer Interaction Design (UNI Rapperswil, Basel)&lt;/li&gt;
 	&lt;li&gt;Distance learning graphic design (Studien Gemeinschaft Darmstadt)&lt;/li&gt;
 	&lt;li&gt;Autodidact Softwareentwicklung&lt;/li&gt;
-	&lt;li&gt;Ausbildung zum Maschinenschlosser (Deutsche Audco)&lt;/li&gt;
+	&lt;li&gt;Training as a machine fitter (Deutsche Audco)&lt;/li&gt;
 	&lt;li&gt;Realschule (Egenbüttel)&lt;/li&gt;	
 &lt;/ul&gt;
 &lt;/div&gt;"

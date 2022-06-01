@@ -8,5 +8,6 @@ Site {
    keywords: 'tantra,sex,bodywork,massage'
    author: 'Artanidos'
    logo: 'logo.png'
+   language: 'de'
    publisher: 'GithubPublisher'
 }
