@@ -337,7 +337,7 @@ Content {
                     text: "&lt;h2&gt;&lt;strong&gt;Preise&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;white-row&quot;&gt;
 &lt;p class=&quot;lead&quot;&gt;
-	Für eine Behandlung werden wir Dir 60,- € pro Stunde berechnen.
+	Für eine Behandlung werden wir Dir 75,- € pro Stunde berechnen.
 &lt;/p&gt;
 &lt;p&gt;
 	Solltest Du Dir das nicht leisten können, so kontaktiere mich bitte im Vorfeld, damit wir eine Lösung finden können. 
