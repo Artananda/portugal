@@ -34,6 +34,75 @@ Content {
                 span: 4
 
                 Image {
+                    src: "CoverWandel.png"
+                }
+
+                Text {
+                    text: "&lt;p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/DerWandelDesGeldes.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p&gt;"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Der Wandel des Geldes - Die Zukunft des Zahlungsmittels und ökonomische Transformation&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt; 
+In seinem Buch &quot;Der Wandel des Geldes&quot; gibt der Autor einen fesselnden Einblick in die Zukunft des Zahlungsmittels und die damit verbundene ökonomische Transformation. 
+Als ehemaliger Softwareentwickler für Banken in Frankfurt und Zürich konnte der Autor hautnah miterleben, wie Banken mit unserem Geld spekulieren und dabei eine große 
+Derivate-Blase erschaffen. Diese Blase birgt das Risiko eines Zusammenbruchs, was wir bereits bei Ereignissen wie der Insolvenz von Lehman Brothers oder der Enteignung 
+auf Zypern gesehen haben, als Menschen plötzlich keinen Zugriff mehr auf ihre Gelder hatten.&lt;/br&gt;&lt;/br&gt;
+
+Motiviert durch seine Erfahrungen und persönlichen Umstände beschäftigt sich der Autor diesem Buch mit dem dringenden Handlungsbedarf in Bezug auf das aktuelle Geldsystem. 
+Durch sein Studium und seine Erfahrungen im Bereich Human Computer Interaction Design und User Experience (UX) entwickelte er eine App, die auf einem zeitbasierten Geldsystem 
+basiert und innovative Möglichkeiten des Bezahlens eröffnet.&lt;/br&gt;&lt;/br&gt;
+
+Inspiriert von der Lektüre des Buches &quot;2020 - Die neue Erde&quot; von Jesus Bruder Bauchi, in dem eine positive Zukunftsvision gezeichnet wird, begibt sich der Autor auf die Suche 
+nach Antworten auf wichtige Fragen. Warum hat er als ehemaliger Schlosser über 35 Jahre als Softwareentwickler gearbeitet? Warum hat er Grafikdesign und Human Computer Interaction 
+Design studiert? Warum hat er eine spirituelle Entwicklung durchlaufen und engagiert sich in Yoga und Tantra-Massage-Workshops? Warum sieht er dystopische Entwicklungen, 
+ähnlich wie in George Orwells &quot;1984&quot;, vor seinen Augen? All diese Fragen und die daraus resultierenden Erkenntnisse werden in diesem Buch beleuchtet.&lt;/br&gt;&lt;/br&gt;
+
+&quot;Der Wandel des Geldes&quot; richtet sich an Leserinnen und Leser, die daran glauben, dass die Schaffung von Geld in den Händen der Menschen liegen sollte, anstatt den Zentralbanken 
+die Kontrolle über die Geldmenge zu überlassen und somit eine mögliche Inflation zu riskieren. Das Buch spricht auch jene an, die sich um ihre Privatsphäre sorgen und nicht möchten, 
+dass ihre Zahlungen von Behörden überwacht werden. Des Weiteren warnt der Autor vor der möglichen Einführung eines Social-Credit-Systems, ähnlich dem in China, das Diskriminierung 
+und Kontrollverlust befürchten lässt.&lt;/br&gt;&lt;/br&gt;
+
+Zusätzlich erhalten Softwareentwickler eine Schritt-für-Schritt-Anleitung, wie sie Plugins für die Shift-App entwickeln können. Die App ist Open Source und bietet somit die 
+Möglichkeit zur aktiven Weiterentwicklung durch die Community.
+&lt;/p&gt;"
+                    adminlabel: "Der Wandel des Geldes"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+	&lt;h3&gt;My book is not printed yet because Amazon and Tolio-Media did refuse to publish it. Maybe its too hot ;-)&lt;/h3&gt;
+	&lt;p&gt;Meanwhile you can download the PDF version, link below the image.&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "callout"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
                     src: "cover_heldenreise.png"
                     animation: "fadeIn"
                     animation_type: "Fading Entrances"
