@@ -39,7 +39,7 @@ Content {
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/DerWandelDesGeldes.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/DerWandelDesGeldes.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -110,7 +110,7 @@ Möglichkeit zur aktiven Weiterentwicklung durch die Community.
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/MeineHeldenreise.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/MeineHeldenreise.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -166,7 +166,7 @@ Lass dich auf ein Abenteuer ein und lass dich motivieren, deine ganz eigene Reis
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/PostCoronaGesellschaft.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/PostCoronaGesellschaft.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -226,7 +226,7 @@ Einen Weg, wie wir das Zepter wieder selber in die Hand nehmen werden und das v�
 
                 Text {
                     text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/Conversation.pdf&quot;&gt;PDF&lt;/a&gt;.
+Here you can download my book as &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/Conversation.pdf&quot;&gt;PDF&lt;/a&gt;.
 &lt;/p&gt;"
                 }
             }
@@ -285,7 +285,7 @@ The author had this conversation and wrote it into this book.
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Unterhaltung.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/Unterhaltung.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -344,7 +344,7 @@ Der Autor hatte dieses Gespräch und schrieb es in dieses Buch.
 
                 Text {
                     text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/theartoflivingandloving.pdf&quot;&gt;PDF&lt;/a&gt;.
+Here you can download my book as &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/theartoflivingandloving.pdf&quot;&gt;PDF&lt;/a&gt;.
 &lt;/p&gt;"
                 }
             }
@@ -399,7 +399,7 @@ We hope that you can take something from this book with you personally and if no
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/Manifestation.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/Manifestation.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -459,7 +459,7 @@ Das Buch zeigt Techniken von Willenskraft, über Ängste, Psych-K bis zum Schrei
 
                 Text {
                     text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEdenEN.pdf&quot;&gt;PDF&lt;/a&gt;.
+Here you can download my book as &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/CampEdenEN.pdf&quot;&gt;PDF&lt;/a&gt;.
 &lt;/p&gt;"
                 }
             }
@@ -512,7 +512,7 @@ We invite you to use your creative energy now.
 
                 Text {
                     text: "&lt;p&gt;
-Here you can download my book as &lt;a href=&quot;http://www.artoftouch.site/assets/book/StepOut.pdf&quot;&gt;PDF&lt;/a&gt;.
+Here you can download my book as &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/StepOut.pdf&quot;&gt;PDF&lt;/a&gt;.
 &lt;/p&gt;"
                 }
             }
@@ -567,7 +567,7 @@ We are the ones we’ve been waiting for, and the time is now.&quot;**&lt;/br&gt
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/CampEden.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
@@ -619,7 +619,7 @@ Wir laden Dich ein, schon jetzt Deine schöpferische Energie zu nutzen.
 
                 Text {
                     text: "&lt;p&gt;
-Hier kannst Du mein Buch auch als &lt;a href=&quot;http://www.artoftouch.site/assets/book/DieKunstZuLebenUndZuLieben.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
+Hier kannst Du mein Buch auch als &lt;a href=&quot;https://artananda.github.io/portugal/assets/book/DieKunstZuLebenUndZuLieben.pdf&quot;&gt;PDF&lt;/a&gt; runterladen.
 &lt;/p&gt;"
                 }
             }
