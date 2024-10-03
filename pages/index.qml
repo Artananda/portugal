@@ -52,7 +52,7 @@ Content {
 	data-endspeed=&quot;500&quot;
 	data-endeasing=&quot;Power4.easeIn&quot;
 	data-captionhidden=&quot;off&quot;
-	style=&quot;z-index: 4&quot;&gt;TANTRA
+	style=&quot;z-index: 4&quot;&gt;SOMATIC
 &lt;/div&gt;
 &lt;div class=&quot;tp-caption large_bold_grey skewfromleftshort customout&quot;
 	data-x=&quot;80&quot;
