@@ -15,11 +15,11 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Tantra-Bodywork&lt;/h1&gt;
+		&lt;h1&gt;Somatic Bodywork&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Tantra-Bodywork&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Somatic Bodywork&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;
@@ -36,7 +36,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt; Im &lt;strong&gt; Tantra-Bodywork &lt;/strong&gt; wirst du in deiner Sexualität begleitet &lt;/h2&gt;"
+                    text: "&lt;h2&gt; Im &lt;strong&gt; Somatic Bodywork &lt;/strong&gt; wirst du in deiner Sexualität begleitet &lt;/h2&gt;"
                 }
             }
         }
@@ -66,20 +66,24 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h2&gt;&lt;strong&gt;Tantra-Bodywork&lt;/strong&gt;&lt;/h2&gt;
+	&lt;h2&gt;&lt;strong&gt;Somatic Bodywork&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Hast du auch gerade das Gefühl, dass du genau hier richtig sein könntest? &lt;br&gt;
-		Sagt dir dein Herz, dass du weiterlesen solltest? &lt;br&gt;
-		Verspürst du ein Kribbeln oder hast du vielleicht grad sogar ein ungutes Gefühl im Bauch?
+		Hast du das Gefühl, dass du hier genau richtig bist?&lt;br&gt;
+		Sagt dir dein Herz, dass du weiterlesen solltest?&lt;br&gt;
+		Verspürst du ein Kribbeln oder hast du vielleicht sogar ein ungutes Gefühl im Bauch?
 	&lt;/p&gt; 
 	&lt;p&gt;
-		All dies können Zeichen deines Herzens sein, um dir zu sagen, dass sich etwas entscheidendes in deinem Leben ändern wird, wenn du dich ein wenig mit unserem Angebot auseinander setzt. 
+		All dies kann ein Zeichen deines Herzens sein, dir zu sagen, dass sich etwas Entscheidendes in deinem Leben ändern könnte, 
+		wenn du dich ein wenig mit unserem Angebot auseinandersetzt.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Viele Ängste, Sorgen und Unzufriedenheiten sind eine Folgeerscheinung unserer mangelhaften oder fehlenden Sexualität. Ein unausgefülltes Sexualleben bedeutet aber nicht, dass dies so bleiben muss, denn es gibt qualifizierte Menschen wie uns, die dir mit Tantra Bodywork zur Seite stehen, um dir beizubringen, wieder Spass beim Sex mit deinem Partner zu haben.
+		Viele Ängste, Sorgen und Unzufriedenheiten sind eine Folgeerscheinung unserer mangelhaften oder fehlenden Sexualität. 
+		Ein unausgefülltes Sexualleben bedeutet aber nicht, dass dies so bleiben muss, denn es gibt qualifizierte Menschen wie mich, die dir mit Somatic Bodywork zur Seite stehen, 
+		um dir beizubringen, wieder Spass beim Sex mit deinem Partner zu haben.&lt;/br&gt;
+		&lt;b&gt;Es ist wichtig zu beachten, dass dieser Prozess sich auf Heilung und nicht auf sexuelle Befriedigung konzentriert.&lt;/b&gt;
 	&lt;/p&gt;
 	&lt;p&gt;
-		Buche doch einfach mal einen Termin bei uns, um dich unverbindlich zu folgenden Themen beraten zu lassen. 
+		Buche doch einfach mal einen Termin bei mir, um dich unverbindlich zu folgenden Themen beraten zu lassen. 
 	&lt;/p&gt;
 	&lt;ul&gt;
 		&lt;Li&gt; Scham &lt;/ li&gt;
@@ -94,20 +98,14 @@ Content {
 	&lt;hr&gt;
 	&lt;h2&gt;Ablauf&lt;/h2&gt;
 	&lt;p&gt;
-		Nach einem etwa einstündigen Vorgespräch werden wir mit dir direkt in die Körperarbeit gehen.
-		Körperarbeit kann bedeuten, dass wir dir in einer Ganzkörpermassage, welche auch die Genitalien beinhaltet, zeigen, 
-		dass auch Dein Körper in der Lage ist Lust und Erregung zu spüren. Auch wird dein Körper geschult, Orgasmen und Ekstasen 
-		zu erleben.
-		Atemübungen werden dich in eine höhere ekstatische Energie bringen.
-		Beckenbodenübungen helfen dir, die Fähigkeit, Orgasmen auszulösen, zu verbessern.
-		Im Orgasmic Yoga zeigen wir dir Masturbationstechniken, mit denen du in der Lage bist, deinen Körper neu zu entdecken und 
-		deine Lust über Stunden zu halten.
-		Auf Wunsch zeigen wir dir, wie du deinen Partner mit einer Intimmassage verwöhnen kannst.
-		Selbst wenn Du noch voller Scham und Vorurteile sein solltest, können wir dir evtl. helfen, in naher Zukunft deinen 
-		ersten sexuellen Höhepunkt zu erleben.
-		Eine erfüllte Sexualität wird dein Leben nachhaltig, positiv verändern.
-		Selbst wenn du noch gar keine sexuelle Erfahrung haben solltest, können wir dir helfen, deinen Körper und die 
-		Sexualität zu entdecken, damit du in deiner ersten Beziehung nicht unerfahren dastehen musst. 	
+		Nach einem etwa einstündigen Vorgespräch werden wir direkt mit der Körperarbeit beginnen. Körperarbeit kann bedeuten, dass ich dir in einer Ganzkörpermassage, 
+		die auch die Genitalien einbezieht, zeigen, dass auch dein Körper in der Lage ist, Lust und Erregung zu empfinden. Dein Körper wird geschult, 
+		um Orgasmen und Ekstasen zu erleben. Atemübungen werden dich in eine höhere ekstatische Energie bringen. Beckenbodenübungen helfen dir, die Fähigkeit zu verbessern, 
+		Orgasmen auszulösen. Im Orgasmic Yoga zeige ich dir Masturbationstechniken, mit denen du deinen Körper neu entdecken und deine Lust über Stunden hinweg aufrechterhalten 
+		kannst. Auf Wunsch zeige ich dir, wie du deinen Partner mit einer Intimmassage verwöhnen kannst. Selbst wenn du noch voller Scham und Vorurteile bist, 
+		kann ich dir helfen, in naher Zukunft deinen ersten sexuellen Höhepunkt zu erleben. Eine erfüllte Sexualität wird dein Leben nachhaltig positiv verändern. 
+		Selbst wenn du noch gar keine sexuelle Erfahrung hast, kann ich dir helfen, deinen Körper und die Sexualität zu entdecken, damit du in deiner ersten Beziehung 
+		nicht unerfahren dastehen musst.
 	&lt;/p&gt;
 	
 &lt;/div&gt;"

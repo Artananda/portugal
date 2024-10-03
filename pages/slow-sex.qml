@@ -66,34 +66,31 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;Was ist &lt;strong&gt;Slow Sex&lt;/strong&gt;?&lt;/h2&gt;
 	&lt;p&gt;
-		Unter Slow Sex versteht man die Vereinigung von Mann und Frau ohne sich, wie 
-		gewohnt dabei rythmisch zu bewegen und durch die Reibung des Lingams in der Yoni
-		Lust zu erzeugen und auf einen, bzw. mehrere Orgasmen zu steuern.
+Unter Slow Sex versteht man die Vereinigung von Mann und Frau ohne sich, wie 
+gewohnt dabei rhythmisch zu bewegen und durch die Reibung des Lingams in der 
+Yoni Lust zu erzeugen oder auf einen, bzw. mehrere Orgasmen zu steuern. &lt;/br&gt;
+&lt;b&gt;Der Fokus liegt hierbei nicht auf sexueller Befriedigung, sondern auf Heilung 
+und einem tiefen, energetischen Austausch.&lt;/b&gt;
 	&lt;/p&gt;
 	&lt;p&gt;
-		Beim Slow Sex bewegt sich der Lingam wenn überhaupt nur sehr langsam in der Yoni.
-		Millimeter für Millimeter. Hierbei geht es nicht um die Generierung von Lust
-		durch sexuelle Stimulation, sondern nur um das miteinander SEIN.
-		Eigentlich muss es dabei nicht einmal zur Vereinigung kommen. Denn es genügt,
-		wenn der Lingam einfach vor der Yoni liegt, damit dort Energie vom Lingam zur Yoni
-		fliessen kann. Der Lingam muss hierfür nicht einmal erregiert sein, was Männern
-		generell entgegen kommt, ob sie damit nun Probleme haben oder nicht, es vermeidet
-		möglichen Stress.
+Beim Slow Sex bewegt sich der Lingam, wenn überhaupt, nur sehr langsam in der 
+Yoni – Millimeter für Millimeter. Es geht nicht um sexuelle Stimulation, 
+sondern um das Miteinander-Sein und die bewusste Wahrnehmung von Energieflüssen. 
+Eigentlich muss es dabei nicht einmal zur Vereinigung kommen. Es genügt, wenn der 
+Lingam vor der Yoni liegt, damit Energie vom Lingam zur Yoni fließen kann. 
+Der Lingam muss hierfür nicht einmal erigiert sein, was für Männer, unabhängig 
+von möglichen Erektionsproblemen, entlastend und stressfrei ist.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Dieses Fliessen der Energie, des Pranas oder auch Chi genannt, erfolgt vom Lingam
-		(Yang) zur Yoni (Yin), dann fliesst es mit dem Einatmen der Frau weiter zum Herzen 
-		(Anahata-Chakra) der Frau, wird dort mit Liebe angereichert und fliesst über 
-		die Brüste, den Mund und die Zunge mit dem Ausatmen der Frau wieder zum Herzen 
-		(Anahata-Chakra) des Mannes, wird dort wiederrum mit Liebe 
-		angereichert und fliesst mit dem Einatmen des Manner zum Lingam und dann mit dem 
-		Ausatmen des Mannes wieder zur Yoni. 
-		Die Energie befindet sich hierbei in einem steten Kreislauf.
+Dieses Fließen der Energie – Prana oder Chi genannt – erfolgt vom Lingam (Yang) 
+zur Yoni (Yin). Mit dem Einatmen der Frau fließt es weiter zu ihrem Herzen (Anahata-Chakra), 
+wird dort mit Liebe angereichert und fließt beim Ausatmen über Brüste, Mund und Zunge 
+zurück zum Herzen des Mannes. Dort wird es erneut mit Liebe angereichert, 
+fließt mit dem Einatmen des Mannes zurück zum Lingam und dann mit seinem Ausatmen wieder zur Yoni. 
+Die Energie zirkuliert kontinuierlich in diesem Kreislauf und unterstützt dabei die Heilung.
 	&lt;/p&gt;	
-	&lt;p&gt;
-		Begleiter: &lt;a href=&quot;index.html#team&quot;&gt;Jonas&lt;/a&gt; und &lt;a href=&quot;index.html#art&quot;&gt;Art&lt;/a&gt;
-	&lt;/p&gt;	
-&lt;/div&gt;"
+&lt;/div&gt;
+"
                     adminlabel: "Slow Sex"
                 }
             }
@@ -108,7 +105,7 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Coaching&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		In einer Sitzung mit Artananda kann dieses Ritual natürlich auf Wunsch auch mit 
+		In einer Sitzung mit Art kann dieses Ritual natürlich auf Wunsch auch mit 
 		Bekleidung und ohne Vereinigung stattfinden, wenn hier noch Scham oder andere
 		Dinge vorherschen sollten.
 	&lt;/p&gt;
@@ -120,12 +117,11 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Ritual-Ort&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Das Coaching findet entweder bei dir Zuhause oder in einer Praxis oder einem Raum statt, den wir dafür anbieten können.
+		Das Coaching findet entweder in meinem Studio in Wittenbergbei dir Zuhause statt.
 	&lt;/p&gt;
 	&lt;p&gt;
 		Da so eine Session mehrere Stunden dauern kann, Diana Richardson spricht in
-		ihrem Buch &quot;Slow Sex&quot; von bis zu 21 Tagen, ist es ratsam, einen Ort zu wählen,
-		der keine Raummiete kostet ;-)
+		ihrem Buch &quot;Slow Sex&quot; von bis zu 21 Tagen, ist es ratsam, einen Ort zu wählen, an dem man nicht gestört wird.
 	&lt;/p&gt;
 &lt;/div&gt;"
                     adminlabel: "Ort"
@@ -167,12 +163,12 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Tantrisches Ritual&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Neben dem gewöhnlichen Slow Sex wird bei Artanidos Wert auf tantrische Rituale
+		Neben dem gewöhnlichen Slow Sex wird bei Art Wert auf tantrische Rituale
 		gelegt, um eine noch tiefere Erfahrung zu erreichen.
 		Hierfür schlüpt die Frau in die Rolle der Göttin Shakti und der Gebende in die
 		Rolle des Göttes Shiva.
-		Hierfür gibt es ein wundervolles Transfigurations-Ritual, in welches wir dich 
-		vorher im Intake einweisen werden. 
+		Hierfür gibt es ein wundervolles Transfigurations-Ritual, in welches ich Dich 
+		vorher im Intake einweisen werde. 
 	&lt;/p&gt;
 &lt;/div&gt;"
                     adminlabel: "Ritual"
@@ -182,7 +178,7 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;DeArmouring&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Das DeArmouring kannst du auch bei Artananda buchen. Man nennt es auch Yoni-Mapping, 
+		Das DeArmouring kannst du auch bei Art buchen. Man nennt es auch Yoni-Mapping, 
 		weil bestimmte Punkte in der Yoni wieder mit dem Gehirn verbunden, bzw. gemapped werden.
 		Auf diese Weise kann sogar Narbengewebe, welches bei einem Dammschnitt, 
 		während der Geburt entstehen kann, in natürliches, rezeptives Gewebe umgewandelt
@@ -190,9 +186,6 @@ Content {
 		Hierfür wird speziell Rizinusöl benutz. Bitte vorher ein Test machen, ob du auch
 		nicht alergisch gegen das Öl bist.
 	&lt;/p&gt;
-	&lt;p&gt;
-		Begleiter: &lt;a href=&quot;index.html#team&quot;&gt;Jonas&lt;/a&gt; und &lt;a href=&quot;index.html#art&quot;&gt;Art&lt;/a&gt;
-	&lt;/p&gt;	
 &lt;/div&gt;"
                     adminlabel: "DeArmouring"
                 }

@@ -2,12 +2,12 @@ import FlatSiteBuilder 2.0
 import TextEditor 1.0
 
 Content {
-    title: "Prana-Flow-Massage"
+    title: "Prana-Flow-Massage-Workshop"
     menu: "portfolio"
     author: "Artanidos"
     keywords: "tantra,sex,bodywork,massage"
     layout: "default"
-    date: "2017-10-14"
+    date: "2019-12-02"
 
     Section {
         fullwidth: true
@@ -15,29 +15,19 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Prana-Flow-Massage&lt;/h1&gt;
+		&lt;h1&gt;Prana-Flow-Massage Workshop&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Prana-Flow-Massage&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Prana-Flow-Massage Workshop&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
-&lt;/header&gt;"
+&lt;/header&gt;
+"
         }
     }
 
     Section {
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;h2&gt;Die &lt;strong&gt; Prana Flow Massage &lt;/strong&gt; bringt dein Energiesystem in Wallung&lt;/h2&gt;"
-                }
-            }
-        }
 
         Row {
 
@@ -55,14 +45,29 @@ Content {
 &lt;/div&gt;"
                     adminlabel: "Bilder"
                 }
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Lernziel&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		Ich werde dir zeigen, wie du selbst eine Prana-Flow-Massage geben kannst. 
+		Du wirst lernen, wie du deinen Gast in eine hohe Energie bringen kannst. 
+		Dein Gast wird tief mit sich selbst verbunden sein, und du wirst in der Lage sein, 
+		einen Raum zu schaffen, in dem viele wundervolle Dinge sichtbar werden und geschehen können.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Lernziel"
+                }
             }
 
             Column {
                 span: 8
 
                 Text {
-                    text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Massage&lt;/strong&gt;&lt;/h3&gt;
+                    text: "
+
+&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Massage Workshop&lt;/strong&gt;&lt;/h3&gt;
 	&lt;p&gt;
 Prana ist reine Lebensenergie, die durch den ganzen Körper fliessen kann, wenn das natürliche Gleichgewicht im Menschen harmonisch 
 ist. 
@@ -81,6 +86,50 @@ Diese Option wird nur angeboten, wenn dies im Einklang mit dem individuellen Kom
 &lt;/p&gt;
 						
 &lt;/div&gt;"
+                    adminlabel: "Prana Flow Workshop"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Workshop&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		Diesen Workshop kann man auf Wunsch auch bekleidet durchführen, falls noch Scham oder andere Bedenken vorhanden sind.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Coaching"
+                }
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Workshop-Ort&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		Der Workshop findet in meinem Studio statt, kann jedoch auch in deinen Räumlichkeiten durchgeführt werden.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Ort"
+                }
+            }
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Vorbereitung&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		Du benötigst eine Yoga-Matte, eine Wolldecke und ein Laken als Unterlage.&lt;br&gt;
+ 		Zudem benötigst du Massageöl. Ich empfehle Mandelöl, aber auch Sonnenblumenöl reicht völlig aus.&lt;br&gt;
+		Für Intimmassagen ist Kokosöl zu empfehlen, da es antibakteriell und allgemein gut verträglich ist.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Vorbereitung"
                 }
             }
         }

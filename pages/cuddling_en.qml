@@ -3,7 +3,7 @@ import TextEditor 1.0
 
 Content {
     title: "Cuddling"
-    menu: "portfolio"
+    menu: "portfolio_en"
     author: "Artanidos"
     keywords: "cuddle, kuscheln"
     layout: "default"
@@ -15,11 +15,11 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Kuscheln&lt;/h1&gt;
+		&lt;h1&gt;Cuddling&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Kuscheln&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Cuddling&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;"
@@ -34,7 +34,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;Das &lt;strong&gt;Kuscheln&lt;/strong&gt; gibt dir eine wohlige Wärme&lt;/h2&gt;
+                    text: "&lt;h2&gt;&lt;strong&gt;Cuddling&lt;/strong&gt; provides you with a comforting warmth&lt;/h2&gt;
 "
                 }
             }
@@ -60,15 +60,15 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;&lt;strong&gt;Kuscheln&lt;/strong&gt;&lt;/h3&gt;
-	&lt;p&gt;	
-		In einer Kuschel-Sitzung bekommst Du genau das, was Du Dir wünschst: Kuscheln, wohlige Wärme, innige Zuneigung, Berührung, Ruhe und Liebe.
-	&lt;/p&gt;  
-	&lt;p&gt;	
-		Unsere Haut ist ein großes Sinnesorgan. Du kannst frei entscheiden, ob Du dabei völlig bekleidet sein möchtest oder ob Du gerne Haut auf Haut spürst.&lt;br&gt;
-		&lt;b&gt;Obwohl beim Kuscheln bereits sexuelle Energien fließen können, geht es hier nicht um sexuelle Vereinigung oder Befriedigung.&lt;/b&gt;&lt;br&gt;
-		Ganz im Gegenteil möchte ich Dir hier einen sicheren Raum bieten, in dem Du Dich vollkommen fallen lassen kannst, um emotionale Nähe und Geborgenheit zu erfahren.
-	&lt;/p&gt; 
+	&lt;h3&gt;&lt;strong&gt;Cuddling&lt;/strong&gt;&lt;/h3&gt;
+	&lt;p&gt;
+		In a cuddling session, you will receive exactly what you desire: cuddling, cozy warmth, intimate affection, touch, peace, and love.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Our skin is a large sensory organ. You are free to decide whether you want to remain fully clothed or enjoy skin-to-skin contact.&lt;br&gt;
+		&lt;b&gt;While sexual energies may flow during cuddling, the goal here is not sexual union or gratification.&lt;/b&gt;&lt;br&gt;
+		On the contrary, I want to provide you with a safe space where you can let go completely and experience emotional closeness and comfort.
+	&lt;/p&gt;
 &lt;/div&gt;"
                 }
             }

@@ -1,3 +1,3 @@
-# Artananda
+# Art of touch
 
-Have a look at the website: https://artananda.github.io/portugal
+Have a look at the website: https://artoftouch.crowdware.at

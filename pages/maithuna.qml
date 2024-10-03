@@ -15,11 +15,11 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Maithuna Massage Workshop&lt;/h1&gt;
+		&lt;h1&gt;Prana-Flow Ritual Workshop&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Maithuna Massage Workshop&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Prana-Flow Ritual Workshop&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;
@@ -63,24 +63,26 @@ Content {
                 span: 8
 
                 Text {
-                    text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h2&gt;Was ist die &lt;strong&gt;Maithuna Massage&lt;/strong&gt;?&lt;/h2&gt;
+                    text: "
+&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;Was ist das &lt;strong&gt;Prana-Flow Ritual&lt;/strong&gt;?&lt;/h2&gt;
 	&lt;p&gt;
-		Das Maithuna Ritual ist eigentlich ein hohes tantrisches Ritual bei dem sich Shiva und Shakti vereinigen.
-		Die Massage ist eine Abwandlung dieses Rituals und kann uns in noch höhere Energien bringen, da wir zusätzlich die Energien leiten und ausstreichen.	
+		Das Prana-Flow Ritual basiert auf dem tantrischen Maithuna-Ritual, bei dem sich Shiva und Shakti vereinen. 
+		Es handelt sich um eine Paarmassage und eine Abwandlung dieses Rituals, bei der die Energien durch gezielte Massage geleitet und ausgestrichen werden, was zu einem erhöhten energetischen Zustand führen kann.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Während der Massage können beide Partner, wie bei dem Maithuna Ritual, in der YumYumPosition sitzen und sich gegenseitig massieren.
-		Auch können sich beide während dieser Massage vereinigen. Die Vereinigung ist allerdings nicht das Ziel dieser Massage.
-		Das Ziel dieser Massage ist es, sich gegenseitig zu massieren um die Kundalini zum fließen zu bringen.
-		Abwechselnd legt sich einer der Partner aus der YubYumPosition ab und kann vom Partner massiert werden.
-		Danach setzt man sich wieder auf und ist (sein) zusammen mit seinem Partner / seiner Partnerin. 
-		Die Vereinigung muss wie gesagt nicht vollzogen werden, sondern es reicht völlig aus, wenn der Lingam einfach nur in der Nähe der Yoni ist und sich beide berühren, damit Energie fließen kann.
-		Weder eine Errektion des Lingams noch eine feuchte Yoni sind erforderlich.    
+		Während des Rituals können beide Partner, wie im Maithuna-Ritual, in der Yub-Yum-Position sitzen und sich gegenseitig massieren. 
+		Eine Vereinigung der Partner kann dabei stattfinden, ist jedoch nicht das Ziel dieses Rituals. 
+		Das Hauptziel ist es, durch gegenseitige Massage die Kundalini-Energie zum Fließen zu bringen.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Begleiter: &lt;a href=&quot;index.html#art&quot;&gt;Art&lt;/a&gt;
-	&lt;/p&gt;	
+		Abwechselnd legt sich ein Partner aus der Yub-Yum-Position ab, um vom anderen Partner massiert zu werden. Danach setzt man sich wieder auf und bleibt in enger Verbindung mit dem Partner. 
+		Es ist nicht notwendig, dass eine Vereinigung stattfindet; es reicht, wenn der Lingam einfach in der Nähe der Yoni ist und die Partner sich gegenseitig berühren, um den Energiefluss zu ermöglichen.
+		Eine Erektion des Lingams oder eine feuchte Yoni sind dabei nicht erforderlich.
+	&lt;/p&gt;
+	&lt;p&gt;
+		&lt;b&gt;Wichtig zu betonen ist, dass dieses Ritual nicht auf sexuelle Befriedigung ausgerichtet ist, sondern auf die Arbeit mit Energie und spirituelle Heilung. Als Therapeut leite ich lediglich die Durchführung an, während die Paare die Erfahrung gemeinsam machen.&lt;/b&gt;
+	&lt;/p&gt;
 &lt;/div&gt;"
                     adminlabel: "Maithuna Massage"
                 }
@@ -108,7 +110,7 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Workshop-Ort&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Da wir keinen festen Ort für diesen Workshop haben, würden wir uns freuen, wenn du einen Ort hast und uns dorthin einladen würdest.
+		Der Workshop findet in meinem Studio statt, kann aber auch in deinen Räumlichleiten stattfinden.
 	&lt;/p&gt;
 &lt;/div&gt;"
                     adminlabel: "Ort"
@@ -121,10 +123,15 @@ Content {
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Vorbereitung&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+		Du benötigst eine Yoga-Matte, eine Wolldecke und ein Laken als Unterlage.&lt;/br&gt;
+ 		Dann benötigts Du Massage-ÖL. Hierbei empfehle ich Dir Mandel-Öl, aber auch Sonnenblumenkern-Öl reicht völlig aus.&lt;/br&gt;
+		Für Intimmassagen ist Kokos-Öl zu empfehlen, da es antibakteriell und allgemein gut verträglich ist.
+&lt;/p&gt;
 	&lt;p&gt;
 		Vorbereitent zu diesem Ritual, raten wir der Frau, ihre Yoni deAmouren/entpanzern 
 		zu lassen. Damit die Energie dort frei fliessen kann und sie den Lingam
-		überhaupt spüren kann.
+		überhaupt spüren kann.&lt;/br&gt;&lt;/br&gt;
 		Leider missbrauchen junge Mädchen heutzutage ihren Körper und speziell ihre Yoni,
 		in dem sie auf ein ausgedehntes Vorspiel vor dem Liebemachen verzichten.
 		Dies sorgt dafür, daß sich die Yoni eine Panzerung anlegt, um nicht überreizt 
@@ -150,7 +157,7 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Tantrisches Massage Ritual&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Neben dem gewöhnlichen Massage-Ritual wird bei Artananda Wert auf tantrische Rituale
+		Neben dem gewöhnlichen Massage-Ritual wird bei Art Wert auf tantrische Rituale
 		gelegt, um eine noch tiefere Erfahrung zu erreichen.
 		Hierfür schlüpt die Frau in die Rolle der Göttin Shakti und der Gebende in die
 		Rolle des Göttes Shiva.
@@ -165,7 +172,7 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;DeArmouring&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Das DeArmouring kannst du auch bei Artananda buchen. Man nennt es auch Yoni-Mapping, 
+		Das DeArmouring kannst du auch bei Art buchen. Man nennt es auch Yoni-Mapping, 
 		weil bestimmte Punkte in der Yoni wieder mit dem Gehirn verbunden, bzw. gemapped werden.
 		Auf diese Weise kann sogar Narbengewebe, welches bei einem Dammschnitt, 
 		während der Geburt entstehen kann, in natürliches, rezeptives Gewebe umgewandelt
@@ -173,9 +180,6 @@ Content {
 		Hierfür wird speziell Rizinusöl benutz. Bitte vorher ein Test machen, ob du auch
 		nicht alergisch gegen das Öl bist.
 	&lt;/p&gt;
-	&lt;p&gt;
-		Begleiter: &lt;a href=&quot;index.html#team&quot;&gt;Jonas&lt;/a&gt; und &lt;a href=&quot;index.html#art&quot;&gt;Art&lt;/a&gt;
-	&lt;/p&gt;	
 &lt;/div&gt;"
                     adminlabel: "DeArmouring"
                 }

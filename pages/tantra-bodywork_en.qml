@@ -3,7 +3,7 @@ import TextEditor 1.0
 
 Content {
     title: "Tantra-Bodywork"
-    menu: "portfolio"
+    menu: "portfolio_en"
     author: "Artanidos"
     keywords: "tantra sexological bodywork"
     layout: "default"
@@ -15,11 +15,11 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Tantra-Bodywork&lt;/h1&gt;
+		&lt;h1&gt;Somatic Bodywork&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Tantra-Bodywork&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Somatic Bodywork&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;
@@ -36,7 +36,7 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt; In &lt;strong&gt; Tantra-Bodywork &lt;/strong&gt; you will be accompanied in your sexuality &lt;/h2&gt;"
+                    text: "&lt;h2&gt; In &lt;strong&gt; Somatic Bodywork &lt;/strong&gt; you will be accompanied in your sexuality &lt;/h2&gt;"
                 }
             }
         }
@@ -66,54 +66,46 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h2&gt;&lt;strong&gt;Tantra-Bodywork&lt;/strong&gt;&lt;/h2&gt;
+	&lt;h2&gt;&lt;strong&gt;Somatic Bodywork&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Do you also have the feeling that you could be right here? &lt;br&gt;
-		Does your heart tell you to read on? &lt;br&gt;
-		Do you feel a tingling sensation or do you even have a bad feeling in your stomach?
+		Do you feel that you might be exactly in the right place?&lt;br&gt;
+		Does your heart tell you that you should keep reading?&lt;br&gt;
+		Do you feel a tingling sensation or maybe even an uneasy feeling in your stomach?
 	&lt;/p&gt; 
 	&lt;p&gt;
-		All of these can be signs of your heart to tell you that something is crucial in 
-		yourself and that your life will change if you take a little look at our offer.
+		All of these can be signs from your heart, telling you that something significant in your life might change if you engage a little with our offerings.
 	&lt;/p&gt;
 	&lt;p&gt;
-		Many fears, worries and dissatisfactions are a consequence of our
-		deficient or missing sexuality. But an unfilled sex life does not means to stay that 
-		way, because there are qualified people like me,
-		who are at your side with tantra bodywork to teach you, how to have fun again
-		and how to have good, sacret sex with your partner.
+		Many fears, worries, and dissatisfactions are a consequence of our inadequate or lacking sexuality. 
+		An unfulfilled sex life doesn’t mean it has to remain that way, as there are qualified professionals 
+		like us who can support you with Somatic Bodywork to help you regain enjoyment in sex with your partner.&lt;/br&gt;
+		&lt;b&gt;It’s important to note that this process focuses on healing rather than sexual gratification.&lt;/b&gt;
 	&lt;/p&gt;
 	&lt;p&gt;
-		Just book an appointment with me to get non-binding on the following topics
-		get advice.
+		Simply book an appointment with us for a no-obligation consultation on the following topics:
 	&lt;/p&gt;
 	&lt;ul&gt;
 		&lt;Li&gt; Shame &lt;/ li&gt;
 		&lt;Li&gt; Orgasm &lt;/ li&gt;
 		&lt;Li&gt; Ejaculation &lt;/ li&gt;
 		&lt;Li&gt; Erection &lt;/ li&gt;
-		&lt;li&gt; Libido / Lust &lt;/li&gt;
+		&lt;li&gt; Libido / Desire &lt;/li&gt;
 		&lt;Li&gt; Ecstasy &lt;/ li&gt;
-		&lt;Li&gt; Intimate massage &lt;/ li&gt;
-		&lt;Li&gt; Process support &lt;/ li&gt;						
+		&lt;Li&gt; Intimate Massage &lt;/ li&gt;
+		&lt;Li&gt; Process Support &lt;/ li&gt;						
 	&lt;/ul&gt;
 	&lt;hr&gt;
 	&lt;h2&gt;Procedure&lt;/h2&gt;
 	&lt;p&gt;
-		After an approximately one-hour preliminary talk, I will go directly into bodywork with you.
-		Bodywork can mean that I give you a full body massage, which includes genitals, 
-		show that your body is also able to feel pleasure and excitement.
-		Your body will also be trained to experience orgasms and ecstasies. &lt;br&gt;
-		Breathing exercises will bring you into a higher ecstatic energy.
-		Pelvic floor exercises help you improve your ability to trigger orgasms. &lt;br&gt;
-		In Orgasmic Yoga I show you masturbation techniques with which you are able to re-energize your body
-		discover and keep your lust for hours. &lt;br&gt;
-		On request, I will show you how you can pamper your partner with an intimate massage. &lt;br&gt;
-		Even if you are still full of shame and prejudice, I may be able to help you in the near future
- 		to experience your first sexual climax. &lt;br&gt;
-		A fulfilled sexuality will change your life sustainably, positively. &lt;br&gt;
-		Even if you have no sexual experience at all, I can help you an your body
-		to discover sexuality, so that you don&#x27;t have to be inexperienced in your first relationship.	
+		After an introductory conversation lasting about an hour, we will begin the bodywork directly. 
+		Bodywork may involve showing you, through a full-body massage that includes the genitals, 
+		that your body is capable of experiencing pleasure and arousal. Your body will be trained to experience orgasms and ecstasies. 
+		Breathing exercises will elevate you to a higher ecstatic energy. Pelvic floor exercises will help improve your ability to trigger orgasms. 
+		In Orgasmic Yoga, we will teach you masturbation techniques that allow you to rediscover your body and sustain your pleasure for hours. 
+		If desired, we will also show you how to pamper your partner with an intimate massage. Even if you are still filled with shame and prejudices, 
+		we can help you potentially experience your first sexual climax in the near future. A fulfilling sexuality will positively and sustainably change your life. 
+		Even if you have no sexual experience at all, we can assist you in discovering your body and sexuality, 
+		ensuring that you won’t feel inexperienced in your first relationship.
 	&lt;/p&gt;
 	
 &lt;/div&gt;"

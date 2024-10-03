@@ -2,12 +2,12 @@ import FlatSiteBuilder 2.0
 import TextEditor 1.0
 
 Content {
-    title: "Prana-Flow-Massage"
+    title: "Prana-Flow-Massage-Workshop"
     menu: "portfolio_en"
     author: "Artanidos"
     keywords: "tantra,sex,bodywork,massage"
     layout: "default"
-    date: "2017-10-14"
+    date: "2019-12-02"
 
     Section {
         fullwidth: true
@@ -15,29 +15,19 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Prana-Flow-Massage&lt;/h1&gt;
+		&lt;h1&gt;Prana-Flow-Massage Workshop&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index_en.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;a href=&quot;index_en.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Prana-Flow-Massage&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Prana-Flow-Massage Workshop&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
-&lt;/header&gt;"
+&lt;/header&gt;
+"
         }
     }
 
     Section {
-
-        Row {
-
-            Column {
-                span: 12
-
-                Text {
-                    text: "&lt;h2&gt;The &lt;strong&gt; Prana Flow Massage &lt;/strong&gt; gets your energy system going&lt;/h2&gt;"
-                }
-            }
-        }
 
         Row {
 
@@ -55,6 +45,18 @@ Content {
 &lt;/div&gt;"
                     adminlabel: "Bilder"
                 }
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Learning Objective&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		I will show you how to give a Prana-Flow massage yourself. 
+		You will learn how to elevate your guest&#x27;s energy. 
+		Your guest will connect deeply with themselves, and you will be able to create a space where many wonderful things can manifest and occur.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Lernziel"
+                }
             }
 
             Column {
@@ -62,7 +64,7 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Massage&lt;/strong&gt;&lt;/h3&gt;
+	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Massage Workshop&lt;/strong&gt;&lt;/h3&gt;
 	&lt;p&gt;
 Prana is pure life energy that can flow through the whole body,
 when the natural balance in humans is harmonious.
@@ -92,6 +94,50 @@ massage can be integrated to deepen the energetic experience.
 This option is only offered when it aligns with the individual comfort and wishes of the client.
 							
 &lt;/div&gt;"
+                    adminlabel: "Prana-Flow-Massage Workshop"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Workshop&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		This workshop can also be conducted clothed upon request, should there be any feelings of shame or other concerns.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Coaching"
+                }
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Workshop Location&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		The workshop takes place in my studio but can also be held in your premises.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Ort"
+                }
+            }
+
+            Column {
+                span: 6
+
+                Text {
+                    text: "&lt;div class=&quot;white-row&quot;&gt;
+	&lt;h2&gt;&lt;strong&gt;Preparation&lt;/strong&gt;&lt;/h2&gt;
+	&lt;p&gt;
+		You will need a yoga mat, a wool blanket, and a sheet as a base.&lt;br&gt;
+		You will also need massage oil. I recommend almond oil, but sunflower oil is also sufficient.&lt;br&gt;
+		Coconut oil is advisable for intimate massages as it is antibacterial and generally well-tolerated.
+	&lt;/p&gt;
+&lt;/div&gt;"
+                    adminlabel: "Vorbereitung"
                 }
             }
         }

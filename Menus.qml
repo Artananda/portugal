@@ -2,50 +2,48 @@ import FlatSiteBuilder 2.0
 
 Menus {
     Menu {
-        name:"default"
+        name: 'default'
         Menuitem {
-            title: "Home" 
-            url: "#wrapper" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Portfolio" 
-            url: "#portfolio" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Preise" 
-            url: "#prices" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Team" 
-            url: "#team" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Bücher" 
-            url: "book.html" 
-            icon:""
+            title: 'Home'
+            url: '#wrapper'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
-            title: "Kontakt" 
-            url: "#contact" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
+            title: 'Portfolio'
+            url: '#portfolio'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Preise'
+            url: '#prices'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Team'
+            url: '#team'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Bücher'
+            url: 'book.html'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Kontakt'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'Deutsch'
             url: '#'
             icon: 'assets/images/flags/de.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: 'index_en.html'
@@ -58,52 +56,49 @@ Menus {
             }
         }
     }
-
     Menu {
-        name:"default_en"
+        name: 'default_en'
         Menuitem {
-            title: "Home" 
-            url: "#wrapper" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Portfolio" 
-            url: "#portfolio" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Prices" 
-            url: "#prices" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Team" 
-            url: "#team" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
-        }
-
-        Menuitem {
-            title: "Books" 
-            url: "book_en.html" 
-            icon:""
+            title: 'Home'
+            url: '#wrapper'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
-            title: "Contact" 
-            url: "#contact" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
+            title: 'Portfolio'
+            url: '#portfolio'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Prices'
+            url: '#prices'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Team'
+            url: '#team'
+            icon: ''
+            attributes: 'class="scrollTo"'
+        }
+        Menuitem {
+            title: 'Books'
+            url: 'book_en.html'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Contact'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'English'
             url: '#'
             icon: 'assets/images/flags/us.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: '#'
@@ -116,49 +111,49 @@ Menus {
             }
         }
     }
-    
     Menu {
-        name: "portfolio"
+        name: 'portfolio'
         Menuitem {
-            title: "Home" 
-            url: "index.html" 
-            icon: ""
+            title: 'Home'
+            url: 'index.html'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Portfolio" 
-            url: "index.html#portfolio" 
-            icon: ""
+            title: 'Portfolio'
+            url: 'index.html#portfolio'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Preise" 
-            url: "index.html#prices" 
-            icon: ""
+            title: 'Preise'
+            url: 'index.html#prices'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Team" 
-            url: "index.html#team" 
-            icon:""
+            title: 'Team'
+            url: 'index.html#team'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Bücher" 
-            url: "book.html" 
-            icon:""
+            title: 'Bücher'
+            url: 'book.html'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Kontakt" 
-            url: "#contact" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
+            title: 'Kontakt'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'Deutsch'
             url: '#'
             icon: 'assets/images/flags/de.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: 'index_en.html#portfolio'
@@ -171,49 +166,49 @@ Menus {
             }
         }
     }
-
     Menu {
-        name: "portfolio_en"
+        name: 'portfolio_en'
         Menuitem {
-            title: "Home" 
-            url: "index.html" 
-            icon: ""
+            title: 'Home'
+            url: 'index_en.html'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Portfolio" 
-            url: "index.html#portfolio" 
-            icon: ""
+            title: 'Portfolio'
+            url: 'index_en.html#portfolio'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Price" 
-            url: "index.html#prices" 
-            icon: ""
+            title: 'Price'
+            url: 'index_en.html#prices'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Team" 
-            url: "index.html#team" 
-            icon:""
+            title: 'Team'
+            url: 'index_en.html#team'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Books" 
-            url: "book.html" 
-            icon:""
+            title: 'Books'
+            url: 'book.html'
+            icon: ''
+            attributes: ''
         }
-
         Menuitem {
-            title: "Contact" 
-            url: "#contact" 
-            icon: "" 
-            attributes: "class=\"scrollTo\""
+            title: 'Contact'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'English'
             url: '#'
             icon: 'assets/images/flags/us.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: '#'
@@ -226,82 +221,88 @@ Menus {
             }
         }
     }
-
     Menu {
-        name: "blog"
+        name: 'blog'
         Menuitem {
-            title: "Home" 
-            url: "index.html" 
-            icon: ""
+            title: 'Home'
+            url: 'index.html'
+            icon: ''
+            attributes: ''
         }
-        Menuitem { 
-            title:"Portfolio" 
-            url:"index.html#portfolio" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Price" 
-            url:"index.html#prices" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Team" 
-            url:"index.html#team" 
-            icon:""
-        }
-
         Menuitem {
-            title: "Books" 
-            url: "book.html" 
-            icon:""
+            title: 'Portfolio'
+            url: 'index.html#portfolio'
+            icon: ''
+            attributes: ''
         }
-        
-        Menuitem { 
-            title:"Contact" 
-            url:"#contact" 
-            icon:""
+        Menuitem {
+            title: 'Price'
+            url: 'index.html#prices'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Team'
+            url: 'index.html#team'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Books'
+            url: 'book.html'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Contact'
+            url: '#contact'
+            icon: ''
+            attributes: ''
         }
     }
-
     Menu {
-        name: "book"
-        Menuitem { 
-            title:"Home" 
-            url:"index.html" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Portfolio" 
-            url:"index.html#portfolio" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Preise" 
-            url:"index.html#prices" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Team" 
-            url:"index.html#team" 
-            icon:""
-        }
-        
+        name: 'book'
         Menuitem {
-            title: "Bücher" 
-            url: "book.html" 
-            icon:""
+            title: 'Home'
+            url: 'index.html'
+            icon: ''
+            attributes: ''
         }
-
-        Menuitem { 
-            title:"Kontakt" 
-            url:"#contact" 
-            icon:"" 
-            attributes: "class=\"scrollTo\""
+        Menuitem {
+            title: 'Portfolio'
+            url: 'index.html#portfolio'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Preise'
+            url: 'index.html#prices'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Team'
+            url: 'index.html#team'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Bücher'
+            url: 'book.html'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Kontakt'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'Deutsch'
             url: '#'
             icon: 'assets/images/flags/de.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: 'book_en.html'
@@ -314,46 +315,49 @@ Menus {
             }
         }
     }
-
     Menu {
-        name: "book_en"
-        Menuitem { 
-            title:"Home" 
-            url:"index.html" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Portfolio" 
-            url:"index.html#portfolio" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Price" 
-            url:"index.html#prices" 
-            icon:""
-        }
-        Menuitem { 
-            title:"Team" 
-            url:"index.html#team" 
-            icon:""
-        }
-        
+        name: 'book_en'
         Menuitem {
-            title: "Books" 
-            url: "#" 
-            icon:""
+            title: 'Home'
+            url: 'index_en.html'
+            icon: ''
+            attributes: ''
         }
-
-        Menuitem { 
-            title:"Contact" 
-            url:"#contact" 
-            icon:"" 
-            attributes: "class=\"scrollTo\""
+        Menuitem {
+            title: 'Portfolio'
+            url: 'index_en.html#portfolio'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Price'
+            url: 'index_en.html#prices'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Team'
+            url: 'index_en.html#team'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Books'
+            url: '#'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Contact'
+            url: '#contact'
+            icon: ''
+            attributes: 'class="scrollTo"'
         }
         Menuitem {
             title: 'English'
             url: '#'
             icon: 'assets/images/flags/us.png'
+            attributes: ''
             Menuitem {
                 title: 'English'
                 url: '#'

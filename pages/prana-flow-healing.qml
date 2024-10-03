@@ -64,23 +64,22 @@ Content {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Healing&lt;/strong&gt;&lt;/h3&gt;
 	&lt;p&gt;
-	Prana ist reine Lebensenergie, die durch den ganzen Körper fliessen kann, wenn das natürliche Gleichgewicht im Menschen harmonisch ist. 
-&lt;/p&gt;
-&lt;p&gt;
-	Fliesst das Prana ungehindert fühlen wir uns vital und voller Lebenslust. Energetische und sexuelle Blockaden können beim 
-	Prana-Flow-Healing sanft gelöst werden. Alte Wunden die noch im Energiesystem gespeichert sind dürfen sich zeigen und auflösen. 
-&lt;/p&gt;
-&lt;p&gt;
-	Bei dieser Behandlung muss ich dich nicht wirklich berühren, um deine Blockaden aufzuspüren und zu lösen. 
-	Du kannst bei dieser Art der Behandlung auch deine Kleidung anbehalten. Ich arbeite lediglich in deiner Energiehülle und nach 
-	Absprache berühre ich ein paar wenige Trigger-Punkte. Sobald die Energie wieder fließt leite ich diese durch all deine 
-	Energiezentren. Auf diese Weise können intensive Energiewellen, bis hin zu orgastischen Gefühlen den Körper durchströmen. 
-	Das sexuelle Erleben wird danach intensiver und neue spirituelle Dimensionen können sich dadurch öffnen. Es unterstützt 
-	auf natürliche Weise eine frei fliessende Lebensenergie. 
-&lt;/p&gt;
-&lt;p&gt;
-	Das Prana-Flow-Healing kann auch ein sanfter Einsteig für Frauen und Männer sein, die (noch) keine Berührungen wünschen. 
-&lt;/p&gt;						
+		Prana ist die reine Lebensenergie, die im ganzen Körper frei fließen kann, wenn das natürliche Gleichgewicht im Menschen harmonisch ist.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Wenn Prana ungehindert fließt, fühlen wir uns vital und voller Lebensfreude. Energetische und sexuelle Blockaden können beim Prana-Flow-Healing 
+		sanft gelöst werden. Alte Wunden, die noch im Energiesystem gespeichert sind, dürfen sich zeigen und heilen.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Bei dieser Behandlung ist es nicht notwendig, dass ich dich physisch berühre, um deine Blockaden aufzuspüren und zu lösen. 
+		Du kannst während der gesamten Sitzung vollständig bekleidet bleiben. Ich arbeite in deinem Energiefeld und berühre nach Absprache nur einige wenige Schlüsselstellen. 
+		Sobald die Energie wieder fließt, leite ich sie durch all deine Energiezentren. Auf diese Weise können intensive Energiewellen – bis hin zu orgastischen Empfindungen – 
+		durch deinen Körper strömen. Das sexuelle Erleben kann danach intensiver werden, und neue spirituelle Dimensionen können sich öffnen. 
+		Es unterstützt auf natürliche Weise den freien Fluss deiner Lebensenergie.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Das Prana-Flow-Healing ist auch ein sanfter Einstieg für Frauen und Männer, die (noch) keine körperliche Berührung wünschen.
+	&lt;/p&gt;
 &lt;/div&gt;"
                 }
             }

@@ -3,7 +3,7 @@ import TextEditor 1.0
 
 Content {
     title: "Prana-Flow-Healing"
-    menu: "portfolio"
+    menu: "portfolio_en"
     author: "Artanidos"
     keywords: "tantra,sexualität,bodywork,blockaden,heilung"
     layout: "default"
@@ -17,8 +17,8 @@ Content {
 	&lt;div class=&quot;container&quot;&gt;
 		&lt;h1&gt;Prana-Flow-Healing&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;index.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;index_en.html#portfolio&quot;&gt;Portfolio&lt;/a&gt;&lt;/li&gt;
 			&lt;li class=&quot;active&quot;&gt;Prana-Flow-Healing&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
@@ -62,32 +62,19 @@ Content {
 
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
-	&lt;h3&gt;&lt;strong&gt;Prana-Flow-Healing&lt;/strong&gt;&lt;/h3&gt;
-	&lt;P&gt;
-Prana is pure life energy that can flow through the whole body,
-when the natural balance in humans is harmonious.
-&lt;/ P&gt;
-&lt;P&gt;
-If the prana flows freely, we feel vital and full of joy and fun.
-Energetic and sexual blockages can be solved gently with the Prana Flow Healing.
-Old wounds that are still stored in the energy system may show up and
-dissolve.
-&lt;/ P&gt;
-&lt;P&gt;
-With this treatment, I don&#x27;t really have to touch you to release your blockages.
-You can also keep your clothes on with this type of treatment.
-I only work in your energy envelope and after consultation I touch a few trigger points.
-As soon as the energy flows again, I guide it through all your energy centers.
-In this way, intense energy waves may
-flow through the body to orgasmic feelings.
-The sexual experience then becomes more intense and new spiritual dimensions
-can open up.
-It supports a free flowing life energy in a natural way.
-&lt;/ P&gt;
-&lt;P&gt;
-Prana flow healing can also be a gentle entry for women and men,
-who (yet) don&#x27;t want to be touched.
-&lt;/ P&gt;						
+	&lt;h3&gt;&lt;strong&gt;Prana-Flow Healing&lt;/strong&gt;&lt;/h3&gt;
+	&lt;p&gt;
+		Prana is pure life energy that can flow throughout the entire body when the natural balance within a person is harmonious.
+	&lt;/p&gt;
+	&lt;p&gt;
+		When Prana flows unhindered, we feel vital and full of zest for life. Energetic and sexual blockages can be gently released through Prana-Flow Healing. Old wounds that are still stored in the energy system may surface and dissolve.
+	&lt;/p&gt;
+	&lt;p&gt;
+		In this treatment, I do not need to physically touch you to identify and release your blockages. You can remain fully clothed during this type of healing session. I simply work within your energy field and, after mutual agreement, may touch a few key trigger points. Once the energy begins to flow, I guide it through all of your energy centers. In this way, intense waves of energy—up to and including orgasmic sensations—can course through the body. Sexual experiences may become more intense afterward, and new spiritual dimensions may open. It naturally supports a free-flowing life energy.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Prana-Flow Healing can also be a gentle introduction for women and men who (as of yet) do not wish to experience touch.
+	&lt;/p&gt;
 &lt;/div&gt;"
                 }
             }

@@ -175,6 +175,13 @@ Content {
 		In the massages we can dissolve blockages and ensure that your life energy, your prana 
 		comes back flowing and your health will be restored.
 	&lt;/p&gt; 
+
+&lt;h3&gt;Workshops&lt;/h3&gt;
+&lt;p&gt;
+    If no workshop is scheduled, you can still book a private workshop for yourself, your partner, or acquaintances.&lt;br&gt;
+    However, for massage workshops, I can only accommodate up to five participants.&lt;br&gt;
+    If you are more than that, we will need to arrange for a space in advance.
+&lt;/p&gt;
 &lt;/div&gt;
 "
                     adminlabel: "Willkommen"
@@ -198,7 +205,7 @@ Content {
 	&lt;li data-option-value=&quot;.sessions&quot;&gt;&lt;a href=&quot;#&quot;&gt;Session&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.massages&quot;&gt;&lt;a href=&quot;#&quot;&gt;Massages&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.coachings&quot;&gt;&lt;a href=&quot;#&quot;&gt;Coaching&lt;/a&gt;&lt;/li&gt;
-	&lt;!--li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li--&gt;
+	&lt;li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;row&quot;&gt;
 	&lt;ul class=&quot;sort-destination isotope&quot; data-sort-id=&quot;isotope-list&quot;&gt;
@@ -220,6 +227,26 @@ Content {
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 sessions&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;cuddling_en.html&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;SESSION&lt;/strong&gt; DETAILS
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/cuddle.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;Cuddling&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;SESSION&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
+
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 massages&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
@@ -253,16 +280,16 @@ Content {
 					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/slowsex-thumb.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
 				&lt;/figure&gt;
 				&lt;div class=&quot;item-box-desc&quot;&gt;
-					&lt;h4&gt;Tantra Bodywork&lt;/h4&gt;
+					&lt;h4&gt;Somatic Bodywork&lt;/h4&gt;
 					&lt;small class=&quot;styleColor&quot;&gt;COACHING&lt;/small&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
-&lt;!--
+
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 coachings&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;slow-sex.html&quot;&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;slow-sex_en.html&quot;&gt;
 						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 						&lt;span class=&quot;inner&quot;&gt;
 							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
@@ -278,30 +305,31 @@ Content {
 			&lt;/div&gt;
 		&lt;/li&gt;
 
-		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 sessions&quot;&gt;
-			&lt;div class=&quot;item-box&quot;&gt;
-				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;cuddling.html&quot;&gt;
-						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
-						&lt;span class=&quot;inner&quot;&gt;
-							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
-							&lt;strong&gt;SESSION&lt;/strong&gt; DETAILS
-						&lt;/span&gt;
-					&lt;/a&gt;
-					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/cuddle.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
-				&lt;/figure&gt;
-				&lt;div class=&quot;item-box-desc&quot;&gt;
-					&lt;h4&gt;Cuddling&lt;/h4&gt;
-					&lt;small class=&quot;styleColor&quot;&gt;SESSION&lt;/small&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-		&lt;/li&gt;
 
 
 		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 workshops&quot;&gt;
 			&lt;div class=&quot;item-box&quot;&gt;
 				&lt;figure&gt;
-					&lt;a class=&quot;item-hover&quot; href=&quot;maithuna.html&quot;&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;prana-flow-massage-workshop_en.html&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;WORKSHOP&lt;/strong&gt; DETAILS
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/massage-thumb.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;Prana-Flow-Massage&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;WORKSHOP&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 workshops&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; href=&quot;maithuna_en.html&quot;&gt;
 						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
 						&lt;span class=&quot;inner&quot;&gt;
 							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
@@ -311,12 +339,12 @@ Content {
 					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/maithuna-thumb.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
 				&lt;/figure&gt;
 				&lt;div class=&quot;item-box-desc&quot;&gt;
-					&lt;h4&gt;Maithuna Massage&lt;/h4&gt;
+					&lt;h4&gt;Prana-Flow Ritual&lt;/h4&gt;
 					&lt;small class=&quot;styleColor&quot;&gt;WORKSHOP&lt;/small&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
-		--&gt;
+	
 	&lt;/ul&gt;
 &lt;/div&gt;"
                     adminlabel: "Portfolio"
@@ -336,19 +364,50 @@ Content {
                 Text {
                     text: "&lt;h2&gt;&lt;strong&gt;Prices&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;white-row&quot;&gt;
+
 &lt;p class=&quot;lead&quot;&gt;
-	For a treatment I will charge you 75,- € per hour.	
+    Individual Sessions
 &lt;/p&gt;
-&lt;p&gt;
-	If you cannot afford this, please contact me in advance so that I can find a solution.
-&lt;/p&gt;
-&lt;p&gt;
-	The prices for the workshops can be found in the respective workshop details.
-&lt;/p&gt;
-&lt;/div&gt;
+&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;           
+            &lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Price per Hour&lt;/th&gt;
+            &lt;th style=&quot;text-align: right&quot;&gt;75,- €&lt;/th&gt;    
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+&lt;/table&gt;
 
+&lt;p class=&quot;lead&quot;&gt;
+    Workshop Prices
+&lt;/p&gt;
+&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th scope=&quot;col&quot;&gt;Participants&lt;/th&gt;
+            &lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Price per Hour/Participant&lt;/th&gt;        
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;For one participant&lt;/td&gt;
+            &lt;td style=&quot;text-align: right&quot;&gt;75,- €&lt;/td&gt;       
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;For two participants&lt;/td&gt;
+            &lt;td style=&quot;text-align: right&quot;&gt;50,- €&lt;/td&gt;       
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;For three participants or more&lt;/td&gt;
+            &lt;td style=&quot;text-align: right&quot;&gt;40,- €&lt;/td&gt;       
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
 
-"
+&lt;p&gt;
+    If you cannot afford this, please contact me in advance so we can find a solution.
+&lt;/p&gt;
+
+&lt;/div&gt;"
                     adminlabel: "Preise"
                 }
             }
@@ -389,8 +448,8 @@ Content {
 			&lt;div class=&quot;item-box-desc&quot;&gt;
 				&lt;h4&gt;Adam Art Ananda&lt;/h4&gt;
 				&lt;small class=&quot;styleColor&quot;&gt;Telegram: &lt;a href=&quot;https://t.me/artanidos&quot;&gt;@artanidos&lt;/a&gt;&lt;/small&gt;
-				&lt;small class=&quot;styleColor&quot;&gt;Tel/SMS: +49 163 50 31 438&lt;/small&gt;
-				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Berlin.&lt;/p&gt;
+				&lt;small class=&quot;styleColor&quot;&gt;Tel/SMS: +49 3491 6449633&lt;/small&gt;
+				&lt;p&gt;&lt;a href=&quot;mailto:artanidos@gmail.com&quot;&gt;Art&lt;/a&gt; is curently available for treatments in Lutherstadt-Wittenberg.&lt;/p&gt;
 				&lt;div class=&quot;row socials&quot;&gt;
 					&lt;a href=&quot;https://www.facebook.com/artanidos&quot; class=&quot;social fa fa-facebook&quot;&gt;&lt;/a&gt;
 					&lt;!-- a href=&quot;#&quot; class=&quot;social fa fa-twitter&quot;&gt;&lt;/a&gt;
@@ -410,7 +469,7 @@ Content {
                 Text {
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h3&gt;About &lt;strong&gt;Art&lt;/strong&gt;&lt;/h3&gt;
-	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt; has been a software developer and designer, until he attended 
+	&lt;p&gt;&lt;strong&gt;Art&lt;/strong&gt;, also known by his legal name Olaf, has been a software developer and designer, until he attended 
 	into a tantra massage workshop in 2014.
 	Since that day he has completely changed his life. He gave up his well-paid job in Switzerland.
 	Moved to Denmark to finally start life (kitesurfing). He has been in Portugal lately to help to creat communities 
