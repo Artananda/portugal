@@ -34,6 +34,89 @@ Content {
                 span: 4
 
                 Image {
+                    src: "Mastering_the_Art_of_Manifestation.webp"
+                }
+
+                Text {
+                    text: "&lt;!--p&gt;
+Hier kannst Du mein Buch auch als &lt;a href=&quot;#&quot;&gt;PDF&lt;/a&gt; runterladen.
+&lt;/p--&gt;"
+                }
+            }
+
+            Column {
+                span: 8
+
+                Text {
+                    text: "&lt;h1&gt;&lt;strong&gt;Mastering the Art of Manifestation&lt;/strong&gt;&lt;/h1&gt;
+&lt;p class=&quot;lead&quot;&gt; 
+&lt;strong&gt;Mastering the Art of Manifestation&lt;/strong&gt;&lt;/br&gt;
+Unlock the Secrets of Manifestation and Transform Your Life!&lt;/br&gt;&lt;/br&gt;
+
+Are you searching for a way to turn your dreams into reality? Do you want to harness the incredible power of your mind to manifest your deepest desires? 
+Look no further! &quot;Mastering the Art of Manifestation&quot; is your ultimate guide to creating the life you&#x27;ve always envisioned.&lt;/br&gt;&lt;/br&gt;
+
+What&#x27;s Inside:&lt;/br&gt;
+In this enlightening book, you&#x27;ll discover a treasure trove of techniques and insights that will empower you to manifest your dreams effortlessly. 
+From understanding the core principles of manifestation to overcoming fears and doubts, we provide you with a comprehensive toolkit for success.&lt;/br&gt;&lt;/br&gt;
+
+The Path to Your Ideal Life:&lt;/br&gt;
+Our book is a practical roadmap that guides you through the art of conscious creation. Learn how to align your thoughts and feelings with your aspirations, 
+tap into your inner power, and experience the joy of manifesting your desires. It&#x27;s time to design your life, just as you want it!&lt;/br&gt;&lt;/br&gt;
+
+Key Highlights:&lt;/br&gt;&lt;/br&gt;
+
+Uncover the science behind the Law of Attraction and how it influences your reality.&lt;/br&gt;
+Discover how to release self-limiting beliefs that hold you back from success.&lt;/br&gt;
+Learn powerful techniques such as Psych-K, visualization, and affirmation to shape your destiny.&lt;/br&gt;
+Explore the art of scripting and designing your own future with precision.&lt;/br&gt;
+Gain insights from the author&#x27;s personal experiences and real-life success stories.&lt;/br&gt;&lt;/br&gt;
+
+Author&#x27;s Journey:&lt;/br&gt;
+Written by Adam Art Ananda, this book draws from his own remarkable journey. He has experienced firsthand the transformative power of manifestation 
+and is eager to share his wisdom with you. Whether it&#x27;s finding the perfect partner, escaping the city for a beachfront paradise, or creating an extraordinary 
+life, he has manifested it all.&lt;/br&gt;&lt;/br&gt;
+
+Don&#x27;t Miss Out:&lt;/br&gt;
+Take control of your destiny and grab your copy of &quot;Mastering the Art of Manifestation&quot; today. Turn your visions into realities and embrace the life you&#x27;ve always dreamed of. 
+Get ready to manifest abundance, love, and happiness effortlessly.&lt;/br&gt;&lt;/br&gt;
+
+Start your journey to self-empowerment and transformation now!&lt;/br&gt;&lt;/br&gt;
+
+Unlock the secrets of manifestation and design your extraordinary life today!
+&lt;/p&gt;"
+                    adminlabel: "Mastering the Art of Manifestation"
+                }
+            }
+        }
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "
+
+&lt;!-- CALLOUT --&gt;
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;BOD&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://buchshop.bod.de/mastering-the-art-of-manifestation-adam-art-ananda-9783757854072&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
+                    adminlabel: "Callout"
+                }
+            }
+        }
+    }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 4
+
+                Image {
                     src: "CoverWandel.png"
                 }
 
@@ -84,13 +167,13 @@ Möglichkeit zur aktiven Weiterentwicklung durch die Community.
                 span: 12
 
                 Text {
-                    text: "&lt;!-- CALLOUT --&gt;
+                    text: "
+
+&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Mein Buch ist noch nicht gedruckt worden, weil Amazon und Tolio-Media es bisher abgelehnt haben. Eventuell ist es denen ja zu heiß ;-)
-	&lt;a href=&quot;https://artananda.github.io/portugal/assets/book/DerWandelDesGeldes.pdf&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Das Buch ist ab sofort auf &lt;strong&gt;BOD&lt;/strong&gt; erhältlich.&lt;a href=&quot;https://buchshop.bod.de/der-wandel-des-geldes-adam-art-ananda-9783758310843&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;Zum Buch&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
-&lt;!-- /CALLOUT --&gt;
-"
+&lt;!-- /CALLOUT --&gt;"
                     adminlabel: "Callout"
                 }
             }
