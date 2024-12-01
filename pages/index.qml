@@ -205,6 +205,7 @@ Content {
 	&lt;li data-option-value=&quot;.massages&quot;&gt;&lt;a href=&quot;#&quot;&gt;Massagen&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.coachings&quot;&gt;&lt;a href=&quot;#&quot;&gt;Coaching&lt;/a&gt;&lt;/li&gt;
 	&lt;li data-option-value=&quot;.workshops&quot;&gt;&lt;a href=&quot;#&quot;&gt;Workshop&lt;/a&gt;&lt;/li&gt;
+	&lt;li data-option-value=&quot;.gutscheine&quot;&gt;&lt;a href=&quot;#&quot;&gt;Gutscheine&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;row&quot;&gt;
 	&lt;ul class=&quot;sort-destination isotope&quot; data-sort-id=&quot;isotope-list&quot;&gt;
@@ -343,7 +344,44 @@ Content {
 				&lt;/div&gt;
 			&lt;/div&gt;
 		&lt;/li&gt;
-		
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 gutscheine&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; target=&quot;_blank&quot; href=&quot;https://buy.stripe.com/3cs15VfWd5Ul6vCbIO&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;GUTSCHEIN&lt;/strong&gt; ERWERBEN
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;Prana-Flow-Massage&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;GUTSCHEIN&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;
+
+		&lt;li class=&quot;isotope-item col-sm-6 col-md-3 gutscheine&quot;&gt;
+			&lt;div class=&quot;item-box&quot;&gt;
+				&lt;figure&gt;
+					&lt;a class=&quot;item-hover&quot; target=&quot;_blank&quot; href=&quot;https://buy.stripe.com/00gbKz7pH82t7zGdQV&quot;&gt;
+						&lt;span class=&quot;overlay color2&quot;&gt;&lt;/span&gt;
+						&lt;span class=&quot;inner&quot;&gt;
+							&lt;span class=&quot;block fa fa-plus fsize20&quot;&gt;&lt;/span&gt;
+							&lt;strong&gt;GUTSCHEIN&lt;/strong&gt; ERWERBEN
+						&lt;/span&gt;
+					&lt;/a&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+				&lt;/figure&gt;
+				&lt;div class=&quot;item-box-desc&quot;&gt;
+					&lt;h4&gt;Somatic Bodywork&lt;/h4&gt;
+					&lt;small class=&quot;styleColor&quot;&gt;GUTSCHEIN&lt;/small&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/li&gt;		
 	&lt;/ul&gt;
 &lt;/div&gt;"
                     adminlabel: "Portfolio"
