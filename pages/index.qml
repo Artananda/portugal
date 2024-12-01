@@ -355,7 +355,7 @@ Content {
 							&lt;strong&gt;GUTSCHEIN&lt;/strong&gt; ERWERBEN
 						&lt;/span&gt;
 					&lt;/a&gt;
-					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/Gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
 				&lt;/figure&gt;
 				&lt;div class=&quot;item-box-desc&quot;&gt;
 					&lt;h4&gt;Prana-Flow-Massage&lt;/h4&gt;
@@ -374,7 +374,7 @@ Content {
 							&lt;strong&gt;GUTSCHEIN&lt;/strong&gt; ERWERBEN
 						&lt;/span&gt;
 					&lt;/a&gt;
-					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
+					&lt;img class=&quot;img-responsive&quot; src=&quot;assets/images/Gutschein.png&quot; width=&quot;260&quot; height=&quot;170&quot; alt=&quot;&quot;&gt;
 				&lt;/figure&gt;
 				&lt;div class=&quot;item-box-desc&quot;&gt;
 					&lt;h4&gt;Somatic Bodywork&lt;/h4&gt;
