@@ -117,7 +117,7 @@ Die Energie zirkuliert kontinuierlich in diesem Kreislauf und unterstützt dabei
                     text: "&lt;div class=&quot;white-row&quot;&gt;
 	&lt;h2&gt;&lt;strong&gt;Ritual-Ort&lt;/strong&gt;&lt;/h2&gt;
 	&lt;p&gt;
-		Das Coaching findet entweder in meinem Studio in Wittenbergbei dir Zuhause statt.
+		Das Coaching findet entweder in meinem Studio in Wittenbergbei oder bei dir Zuhause statt.
 	&lt;/p&gt;
 	&lt;p&gt;
 		Da so eine Session mehrere Stunden dauern kann, Diana Richardson spricht in
