@@ -361,55 +361,37 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;&lt;strong&gt;Preise&lt;/strong&gt;&lt;/h2&gt;
+                    text: "&lt;h2&gt;&lt;strong&gt;Wertschätzung&lt;/strong&gt;&lt;/h2&gt;
 &lt;div class=&quot;white-row&quot;&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
 	Einzel-Sitzungen
 &lt;/p&gt;
-&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
-	&lt;thead&gt;
-		&lt;tr&gt;           
-        	&lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Preis pro Stunde&lt;/th&gt;&lt;th style=&quot;text-align: right&quot;&gt;75,- €&lt;/th&gt;    
-        &lt;/tr&gt;
-   	&lt;/thead&gt;
-&lt;/table&gt;
+&lt;p&gt;  
+Mein Anliegen ist es, Menschen mit meiner Gabe zu helfen – das steht für mich an erster Stelle.  
+Ich lade dich herzlich ein, mir eine Wertschätzung zu geben, die für dich stimmig ist. Dies kann Obst, Sternburg Export, Flensburger Pilsener oder ein Geldbetrag in Euro oder &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org&quot;&gt;Minutos&lt;/a&gt; sein.  
+&lt;br/&gt;&lt;br/&gt;  
+&lt;strong&gt;Zum Vergleich:&lt;/strong&gt;  
+Mein Ausbilder in Zürich berechnet 120,- € pro Stunde.  
+&lt;br/&gt;&lt;br/&gt;  
+&lt;strong&gt;Interessiert?&lt;/strong&gt;  
+Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, wie ich dich am besten unterstützen kann.  
+&lt;/p&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
-	Workshop Preise
+	Workshops
 &lt;/p&gt;
-&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
-	&lt;thead&gt;
-		&lt;tr&gt;
-			&lt;th scope=&quot;col&quot;&gt;Teilnehmer&lt;/th&gt;
-            &lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Preis pro Stunde/Teilnehmer&lt;/th&gt;        
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-        	&lt;td&gt;Bei einem Teilnehmer&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;75,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-        &lt;tr&gt;
-     		&lt;td&gt;Bei zwei Teilnehmern&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;50,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-        &lt;tr&gt;
-        	&lt;td&gt;Bei drei Teilnehmern und mehr&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;40,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;  
+Auch bei Workshops freue ich mich über deine Wertschätzung.  
+Bitte denke daran, dass die Durchführung von Workshops einige Kosten mit sich bringt – z. B. für die Heizung, die ich in Euro begleichen muss.  
+&lt;br/&gt;&lt;br/&gt;  
+Wenn du Interesse an einem Workshop hast, schlage doch einfach ein paar Freunde oder Bekannte vor, die mitmachen möchten. Wir finden dann gemeinsam einen passenden Termin!  
 &lt;/p&gt;
-&lt;p&gt;
-	Solltest Du Dir das nicht leisten können, so kontaktiere mich bitte im Vorfeld, damit wir eine Lösung finden können. 
-&lt;/p&gt;
-
 &lt;/div&gt;
 
 
 "
-                    adminlabel: "Preise"
+                    adminlabel: "Wertschätzung"
                 }
             }
         }

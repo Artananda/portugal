@@ -362,53 +362,37 @@ Content {
                 span: 12
 
                 Text {
-                    text: "&lt;h2&gt;&lt;strong&gt;Prices&lt;/strong&gt;&lt;/h2&gt;
+                    text: "&lt;h2&gt;&lt;strong&gt;Appreciation&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;white-row&quot;&gt;
 &lt;div class=&quot;white-row&quot;&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
-    Individual Sessions
+	Individual Sessions
 &lt;/p&gt;
-&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;           
-            &lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Price per Hour&lt;/th&gt;
-            &lt;th style=&quot;text-align: right&quot;&gt;75,- €&lt;/th&gt;    
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-&lt;/table&gt;
+&lt;p&gt;
+	My goal is to help people with my gift – this is my top priority.&lt;br/&gt;
+	I warmly invite you to show your appreciation in a way that feels right for you:&lt;br/&gt;
+
+	Fruit, Sternburg Export, Flensburger Pilsener, or a monetary contribution in Euros or &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org&quot;&gt;Minutos&lt;/a&gt;.&lt;br/&gt;
+
+	&lt;strong&gt;For comparison:&lt;/strong&gt;&lt;br/&gt;
+	My trainer in Zurich charges €120 per hour.&lt;br/&gt;
+
+	&lt;strong&gt;Curious?&lt;/strong&gt;&lt;br/&gt;
+	Book a non-binding introductory session, and let&#x27;s explore how I can support you.
+&lt;/p&gt;
 
 &lt;p class=&quot;lead&quot;&gt;
-    Workshop Prices
+	Workshops
 &lt;/p&gt;
-&lt;table style=&quot;width: auto;&quot; class=&quot;table table-striped&quot;&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-            &lt;th scope=&quot;col&quot;&gt;Participants&lt;/th&gt;
-            &lt;th scope=&quot;col&quot; class=&quot;text-end&quot;&gt;Price per Hour/Participant&lt;/th&gt;        
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;For one participant&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;75,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;For two participants&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;50,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;For three participants or more&lt;/td&gt;
-            &lt;td style=&quot;text-align: right&quot;&gt;40,- €&lt;/td&gt;       
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-
 &lt;p&gt;
-    If you cannot afford this, please contact me in advance so we can find a solution.
+	I also extend this offer to workshops.&lt;br/&gt;
+	Please keep in mind that I need to keep the heating on during these sessions, and at the moment, I can only cover this in Euros.&lt;br/&gt;
+	&lt;br/&gt;
+	That said, I won&#x27;t schedule fixed workshop dates. Instead, gather a few friends or acquaintances who might be interested, and we can arrange a suitable date together.
 &lt;/p&gt;
-
 &lt;/div&gt;"
-                    adminlabel: "Preise"
+                    adminlabel: "Appreciation"
                 }
             }
         }

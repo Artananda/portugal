@@ -16,7 +16,7 @@ Menus {
             attributes: 'class="scrollTo"'
         }
         Menuitem {
-            title: 'Preise'
+            title: 'Wertschätzung'
             url: '#prices'
             icon: ''
             attributes: 'class="scrollTo"'
@@ -71,7 +71,7 @@ Menus {
             attributes: 'class="scrollTo"'
         }
         Menuitem {
-            title: 'Prices'
+            title: 'Appreciation'
             url: '#prices'
             icon: ''
             attributes: 'class="scrollTo"'
@@ -126,7 +126,7 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Preise'
+            title: 'Wertschätzung'
             url: 'index.html#prices'
             icon: ''
             attributes: ''
@@ -181,7 +181,7 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Price'
+            title: 'Appreciation'
             url: 'index_en.html#prices'
             icon: ''
             attributes: ''
@@ -236,7 +236,7 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Price'
+            title: 'Appreciation'
             url: 'index.html#prices'
             icon: ''
             attributes: ''
@@ -275,7 +275,7 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Preise'
+            title: 'Wertschätzung'
             url: 'index.html#prices'
             icon: ''
             attributes: ''
@@ -330,7 +330,7 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Price'
+            title: 'Appreciation'
             url: 'index_en.html#prices'
             icon: ''
             attributes: ''
