@@ -29,7 +29,7 @@ Menus {
         }
         Menuitem {
             title: 'Bücher'
-            url: 'book.html'
+            url: 'https://books.crowdware.at/index_de.html'
             icon: ''
             attributes: ''
         }
@@ -84,7 +84,7 @@ Menus {
         }
         Menuitem {
             title: 'Books'
-            url: 'book_en.html'
+            url: 'https://books.crowdware.at'
             icon: ''
             attributes: ''
         }
@@ -139,7 +139,7 @@ Menus {
         }
         Menuitem {
             title: 'Bücher'
-            url: 'book.html'
+            url: 'https://books.crowdware.at/index_de.html'
             icon: ''
             attributes: ''
         }
@@ -194,7 +194,7 @@ Menus {
         }
         Menuitem {
             title: 'Books'
-            url: 'book.html'
+            url: 'https://books.crowdware.at'
             icon: ''
             attributes: ''
         }
@@ -249,7 +249,7 @@ Menus {
         }
         Menuitem {
             title: 'Books'
-            url: 'book.html'
+            url: 'https://books.crowdware.at'
             icon: ''
             attributes: ''
         }
@@ -288,7 +288,7 @@ Menus {
         }
         Menuitem {
             title: 'Bücher'
-            url: 'book.html'
+            url: 'https://books.crowdware.at/index_de.html'
             icon: ''
             attributes: ''
         }
@@ -311,61 +311,6 @@ Menus {
             Menuitem {
                 title: 'Deutsch'
                 url: '#'
-                icon: 'assets/images/flags/de.png'
-            }
-        }
-    }
-    Menu {
-        name: 'book_en'
-        Menuitem {
-            title: 'Home'
-            url: 'index_en.html'
-            icon: ''
-            attributes: ''
-        }
-        Menuitem {
-            title: 'Portfolio'
-            url: 'index_en.html#portfolio'
-            icon: ''
-            attributes: ''
-        }
-        Menuitem {
-            title: 'Appreciation'
-            url: 'index_en.html#prices'
-            icon: ''
-            attributes: ''
-        }
-        Menuitem {
-            title: 'Team'
-            url: 'index_en.html#team'
-            icon: ''
-            attributes: ''
-        }
-        Menuitem {
-            title: 'Books'
-            url: '#'
-            icon: ''
-            attributes: ''
-        }
-        Menuitem {
-            title: 'Contact'
-            url: '#contact'
-            icon: ''
-            attributes: 'class="scrollTo"'
-        }
-        Menuitem {
-            title: 'English'
-            url: '#'
-            icon: 'assets/images/flags/us.png'
-            attributes: ''
-            Menuitem {
-                title: 'English'
-                url: '#'
-                icon: 'assets/images/flags/us.png'
-            }
-            Menuitem {
-                title: 'Deutsch'
-                url: 'book.html'
                 icon: 'assets/images/flags/de.png'
             }
         }
