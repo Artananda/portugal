@@ -89,6 +89,12 @@ Menus {
             attributes: ''
         }
         Menuitem {
+            title: 'Online-Course'
+            url: 'sacred_sexuality/home.html'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
             title: 'Contact'
             url: '#contact'
             icon: ''
@@ -195,6 +201,12 @@ Menus {
         Menuitem {
             title: 'Books'
             url: 'https://books.crowdware.at'
+            icon: ''
+            attributes: ''
+        }
+        Menuitem {
+            title: 'Online-Course'
+            url: 'home.html'
             icon: ''
             attributes: ''
         }
