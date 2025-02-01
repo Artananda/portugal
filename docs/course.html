@@ -240,11 +240,9 @@ function loadLoginForm() {
 	.then(response => response.text())  // 🔥 Antwort als HTML empfangen
     .then(html => {
         document.getElementById("content").innerHTML = html;  // 🛠 Inhalt ersetzen
-		registerRegisterLink();
 		let loginForm = document.getElementById("login-form");
 
     	if (loginForm) {
-			alert("login form found");
 			loginForm.addEventListener("submit", function (event) {
             	event.preventDefault();  // 🔥 Verhindert das Neuladen der Seite
 				let formData = new FormData(loginForm);
@@ -260,7 +258,7 @@ function loadLoginForm() {
 				.then(response => response.json()) // JSON-Antwort parsen
             	.then(data => {
                 	if (data.message === "Login successful") {
-						fetch("https://artanidos.pythonanywhere.com/nocode/course-page", {
+						fetch("https://artanidos.pythonanywhere.com/nocode/course-page?session=" + data.session, {
         					method: "GET",  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
         					headers: {
             					"X-Requested-With": "XMLHttpRequest",	
@@ -272,7 +270,7 @@ function loadLoginForm() {
     					.then(html => {
 							document.getElementById("content").innerHTML = html;
 						});
-    
+    					
                 	} else {
                     	alert("Error: " + (data.error || "Unknown error"));
                 	}
@@ -296,7 +294,6 @@ function loadRegisterForm() {
     .then(response => response.text())  // 🔥 Antwort als HTML empfangen
     .then(html => {
         document.getElementById("content").innerHTML = html;  // 🛠 Inhalt ersetzen
-		registerLoginLink();
 		let registerForm = document.getElementById("register-form");
 
     	if (registerForm) {
@@ -326,7 +323,6 @@ function loadRegisterForm() {
     					.then(response => response.text())  // 🔥 Antwort als HTML empfangen
     					.then(html => {
 							document.getElementById("content").innerHTML = html;
-							registerLoginLink();
 						});
     
                 	} else {
@@ -340,35 +336,30 @@ function loadRegisterForm() {
 	})
 }
 
-function registerLoginLink() {
-	document.getElementById("login-link").addEventListener("click", function(event) {
-    	event.preventDefault();
-    
-    	fetch("https://artanidos.pythonanywhere.com/nocode/login")
-        	.then(response => response.text())
-        	.then(html => {
-            	document.getElementById("content").innerHTML = html;  // 📌 Inhalt aktualisieren
-				registerRegisterLink();
-				loadLoginForm();
-        	})
-        	.catch(error => console.error("Fehler:", error));
-	});
-}
+document.addEventListener("click", function(event) {
+    if (event.target && event.target.id === "login-link") {
+        event.preventDefault();
 
-function registerRegisterLink() {
-	document.getElementById("register-link").addEventListener("click", function(event) {
-    	event.preventDefault();
-    
-    	fetch("https://artanidos.pythonanywhere.com/nocode/register")
-        	.then(response => response.text())
-        	.then(html => {
-            	document.getElementById("content").innerHTML = html;  // 📌 Inhalt aktualisieren
-				registerLoginLink();
-				loadRegisterForm();
-        	})
-        	.catch(error => console.error("Fehler:", error));
-	});
-}
+        fetch("https://artanidos.pythonanywhere.com/nocode/login")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("content").innerHTML = html;
+                loadLoginForm();
+            })
+            .catch(error => console.error("Fehler:", error));
+    }
+	if (event.target && event.target.id === "register-link") {
+        event.preventDefault();
+        
+        fetch("https://artanidos.pythonanywhere.com/nocode/register")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("content").innerHTML = html;
+                loadRegisterForm();
+            })
+            .catch(error => console.error("Fehler:", error));
+    }
+});
 </script>
 <div id="content">
 <script>
