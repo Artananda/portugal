@@ -39,6 +39,79 @@
     <!-- YOUR STYLE HERE -->
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
 
+
+
+    <script>
+        function validateEmail() {
+            var email = document.getElementById("email").value;
+            var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            var button = document.getElementById("verify-btn");
+
+            if (emailRegex.test(email)) {
+                button.disabled = false;
+            } else {
+                button.disabled = true;
+            }
+        }
+
+        function validatePassword() {
+            var password = document.getElementById("pwd").value;
+            var passwordRegex = /^(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
+            var pwdField = document.getElementById("pwd");
+
+            if (!passwordRegex.test(password)) {
+                pwdField.setCustomValidity("Password must be at least 8 characters long, include 1 uppercase letter, 1 number, and 1 special character.");
+            } else {
+                pwdField.setCustomValidity("");
+            }
+        }
+
+        function validateDOB() {
+            var dob = document.getElementById("dob").value;
+            var dobField = document.getElementById("dob");
+            var today = new Date();
+            var birthDate = new Date(dob);
+            var age = today.getFullYear() - birthDate.getFullYear();
+            var monthDiff = today.getMonth() - birthDate.getMonth();
+
+            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
+                age--;
+            }
+
+            if (age < 18) {
+                dobField.setCustomValidity("You must be at least 18 years old.");
+            } else {
+                dobField.setCustomValidity("");
+            }
+        }
+
+        function sendVerificationCode(website) {
+            const name = document.getElementById('name').value;
+            if (!name) {
+                alert('Please enter a name first.');
+                return;
+            }
+            const email = document.getElementById('email').value;
+            if (!email) {
+                alert('Please enter an email address first.');
+                return;
+            }
+
+            fetch('https://artanidos.pythonanywhere.com/nocode/getverificationcode', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    name: name,
+                    email: email,
+                    locale: 'en',
+                    website: website
+                })
+            })
+            .then(response => response.json())
+            .then(data => alert(data.message || 'Verification code sent!'))
+            .catch(error => alert('Error sending verification code.'));
+        }
+    </script>
     <!-- Morenizr -->
     <script type="text/javascript" src="assets/plugins/modernizr.min.js"></script>
 
@@ -613,7 +686,8 @@ Wenn du Interesse an einem Workshop hast, schlage doch einfach ein paar Freunde 
 <!-- /WRAPPER -->
 
 
-		<!-- atropos/footer.html -->
+		
+<!-- atropos/footer.html -->
 <footer>
 	<div class="footer-bar">
 		<div class="container">
