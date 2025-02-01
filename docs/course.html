@@ -5,7 +5,7 @@
 	<head>
 		<!-- atropos/head.html -->
     <meta charset="utf-8" />
-    <title>register</title>
+    <title>course</title>
     <meta name="keywords" content="tantra,sex,bodywork,massage" />
     <meta name="description" content="Sexological Bodywork and Tantra" />
     <meta name="Author" content="Olaf" />
@@ -216,10 +216,10 @@
 		
 <header id="page-title">
 	<div class="container">
-		<h1>Register</h1>
+		<h1>Course</h1>
 		<ul class="breadcrumb">
 			<li><a href="index.html">Home</a></li>
-			<li class="active">Register</li>
+			<li class="active">Course</li>
 		</ul>
 	</div>
 </header>
@@ -228,6 +228,62 @@
 <div class="row">
 <div class="col-md-12">
 <script>
+function loadLoginForm() {
+ 	fetch("https://artanidos.pythonanywhere.com/nocode/login", {
+        method: "GET",  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
+        headers: {
+            "X-Requested-With": "XMLHttpRequest",
+            "Accept": "text/html"
+        },
+        mode: "cors"  // ✅ CORS sicherstellen
+    })
+	.then(response => response.text())  // 🔥 Antwort als HTML empfangen
+    .then(html => {
+        document.getElementById("content").innerHTML = html;  // 🛠 Inhalt ersetzen
+		registerRegisterLink();
+		let loginForm = document.getElementById("login-form");
+
+    	if (loginForm) {
+			alert("login form found");
+			loginForm.addEventListener("submit", function (event) {
+            	event.preventDefault();  // 🔥 Verhindert das Neuladen der Seite
+				let formData = new FormData(loginForm);
+				fetch("https://artanidos.pythonanywhere.com/nocode/login", {
+                	method: "POST",
+                	body: formData,
+                	headers: {
+                    	"X-Requested-With": "XMLHttpRequest",
+                    	"Accept": "application/json"
+                	},
+                	mode: "cors"  // ✅ Sicherstellen, dass CORS erlaubt ist
+            	})
+				.then(response => response.json()) // JSON-Antwort parsen
+            	.then(data => {
+                	if (data.message === "Login successful") {
+						fetch("https://artanidos.pythonanywhere.com/nocode/course-page", {
+        					method: "GET",  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
+        					headers: {
+            					"X-Requested-With": "XMLHttpRequest",	
+            					"Accept": "text/html"
+        					},
+        					mode: "cors"  // ✅ CORS sicherstellen
+    					})
+    					.then(response => response.text())  // 🔥 Antwort als HTML empfangen
+    					.then(html => {
+							document.getElementById("content").innerHTML = html;
+						});
+    
+                	} else {
+                    	alert("Error: " + (data.error || "Unknown error"));
+                	}
+            	})
+            	.catch(error => console.error("Error submitting form:", error));
+
+			});
+		}
+	});
+}
+
 function loadRegisterForm() {
     fetch("https://artanidos.pythonanywhere.com/nocode/register", {
         method: "GET",  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
@@ -240,7 +296,7 @@ function loadRegisterForm() {
     .then(response => response.text())  // 🔥 Antwort als HTML empfangen
     .then(html => {
         document.getElementById("content").innerHTML = html;  // 🛠 Inhalt ersetzen
-
+		registerLoginLink();
 		let registerForm = document.getElementById("register-form");
 
     	if (registerForm) {
@@ -259,9 +315,6 @@ function loadRegisterForm() {
 				.then(response => response.json()) // JSON-Antwort parsen
             	.then(data => {
                 	if (data.message === "Registration successful") {
-                    	// 🔥 Lade die Bestätigungsseite nach erfolgreicher Registrierung
-       
-
 						fetch("https://artanidos.pythonanywhere.com/nocode/confirmation-page", {
         					method: "GET",  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
         					headers: {
@@ -272,11 +325,9 @@ function loadRegisterForm() {
     					})
     					.then(response => response.text())  // 🔥 Antwort als HTML empfangen
     					.then(html => {
-							//alert("loaded");
 							document.getElementById("content").innerHTML = html;
-
+							registerLoginLink();
 						});
-
     
                 	} else {
                     	alert("Error: " + (data.error || "Unknown error"));
@@ -289,10 +340,39 @@ function loadRegisterForm() {
 	})
 }
 
+function registerLoginLink() {
+	document.getElementById("login-link").addEventListener("click", function(event) {
+    	event.preventDefault();
+    
+    	fetch("https://artanidos.pythonanywhere.com/nocode/login")
+        	.then(response => response.text())
+        	.then(html => {
+            	document.getElementById("content").innerHTML = html;  // 📌 Inhalt aktualisieren
+				registerRegisterLink();
+				loadLoginForm();
+        	})
+        	.catch(error => console.error("Fehler:", error));
+	});
+}
+
+function registerRegisterLink() {
+	document.getElementById("register-link").addEventListener("click", function(event) {
+    	event.preventDefault();
+    
+    	fetch("https://artanidos.pythonanywhere.com/nocode/register")
+        	.then(response => response.text())
+        	.then(html => {
+            	document.getElementById("content").innerHTML = html;  // 📌 Inhalt aktualisieren
+				registerLoginLink();
+				loadRegisterForm();
+        	})
+        	.catch(error => console.error("Fehler:", error));
+	});
+}
 </script>
 <div id="content">
 <script>
-	loadRegisterForm();
+	loadLoginForm();
 </script>
 </div>
 
