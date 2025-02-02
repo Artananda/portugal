@@ -371,10 +371,7 @@ Content {
 &lt;/p&gt;
 &lt;p&gt;  
 Mein Anliegen ist es, Menschen mit meiner Gabe zu helfen – das steht für mich an erster Stelle.  
-Ich lade dich herzlich ein, mir eine Wertschätzung zu geben, die für dich stimmig ist. Dies kann Obst, Sternburg Export, Flensburger Pilsener oder ein Geldbetrag in Euro oder &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org&quot;&gt;Minutos&lt;/a&gt; sein.  
-&lt;br/&gt;&lt;br/&gt;  
-&lt;strong&gt;Zum Vergleich:&lt;/strong&gt;  
-Mein Ausbilder in Zürich berechnet 120,- € pro Stunde.  
+Dennoch berechne ich Dir für meine Zeit 75,- € pro Stunde.  
 &lt;br/&gt;&lt;br/&gt;  
 &lt;strong&gt;Interessiert?&lt;/strong&gt;  
 Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, wie ich dich am besten unterstützen kann.  

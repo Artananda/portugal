@@ -371,12 +371,8 @@ Content {
 &lt;/p&gt;
 &lt;p&gt;
 	My goal is to help people with my gift – this is my top priority.&lt;br/&gt;
-	I warmly invite you to show your appreciation in a way that feels right for you:&lt;br/&gt;
+	Nevertheless I will charge you 75,- € per hour for my time.&lt;br&gt;&lt;br&gt;
 
-	Fruit, Sternburg Export, Flensburger Pilsener, or a monetary contribution in Euros or &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org&quot;&gt;Minutos&lt;/a&gt;.&lt;br/&gt;
-
-	&lt;strong&gt;For comparison:&lt;/strong&gt;&lt;br/&gt;
-	My trainer in Zurich charges €120 per hour.&lt;br/&gt;
 
 	&lt;strong&gt;Curious?&lt;/strong&gt;&lt;br/&gt;
 	Book a non-binding introductory session, and let&#x27;s explore how I can support you.
