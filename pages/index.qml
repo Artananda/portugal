@@ -370,10 +370,10 @@ Content {
 	Einzel-Sitzungen
 &lt;/p&gt;
 &lt;p&gt;  
-Mein Anliegen ist es, Menschen mit meiner Gabe zu helfen – das steht für mich an erster Stelle.  
+Mein Anliegen ist es, Menschen mit meiner Gabe zu helfen – das steht für mich an erster Stelle.&lt;br&gt;
 Dennoch berechne ich Dir für meine Zeit 75,- € pro Stunde.  
 &lt;br/&gt;&lt;br/&gt;  
-&lt;strong&gt;Interessiert?&lt;/strong&gt;  
+&lt;strong&gt;Interessiert?&lt;/strong&gt;&lt;br&gt;  
 Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, wie ich dich am besten unterstützen kann.  
 &lt;/p&gt;
 
