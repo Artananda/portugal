@@ -3,7 +3,7 @@ import TextEditor 1.0
 
 Content {
     title: "course"
-    menu: "default"
+    menu: "portfolio"
     author: "Olaf"
     keywords: "tantra,sex,bodywork,massage"
     layout: "default"
