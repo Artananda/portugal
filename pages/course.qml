@@ -8,6 +8,7 @@ Content {
     keywords: "tantra,sex,bodywork,massage"
     layout: "default"
     date: "2025-01-29"
+    language: "en"
 
     Section {
         fullwidth: true
@@ -35,7 +36,7 @@ Content {
 
                 Text {
                     text: "&lt;script&gt;
-function loadLoginForm() {
+function loadLoginForm() { 
  	fetch(&quot;https://artanidos.pythonanywhere.com/nocode/login&quot;, {
         method: &quot;GET&quot;,  // 🔥 Stelle sicher, dass HTML mit GET geladen wird
         headers: {
