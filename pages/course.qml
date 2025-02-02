@@ -15,10 +15,10 @@ Content {
         Text {
             text: "&lt;header id=&quot;page-title&quot;&gt;
 	&lt;div class=&quot;container&quot;&gt;
-		&lt;h1&gt;Course&lt;/h1&gt;
+		&lt;h1&gt;Sacred Sexuality&lt;/h1&gt;
 		&lt;ul class=&quot;breadcrumb&quot;&gt;
 			&lt;li&gt;&lt;a href=&quot;index.html&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li class=&quot;active&quot;&gt;Course&lt;/li&gt;
+			&lt;li class=&quot;active&quot;&gt;Sacred Sexuality&lt;/li&gt;
 		&lt;/ul&gt;
 	&lt;/div&gt;
 &lt;/header&gt;
@@ -163,6 +163,17 @@ document.addEventListener(&quot;click&quot;, function(event) {
             .then(html =&gt; {
                 document.getElementById(&quot;content&quot;).innerHTML = html;
                 loadRegisterForm();
+            })
+            .catch(error =&gt; console.error(&quot;Fehler:&quot;, error));
+    }
+	if (event.target &amp;&amp; event.target.id === &quot;course-link&quot;) {
+        event.preventDefault();
+       
+		const url = event.target.href;
+        fetch(url)
+            .then(response =&gt; response.text())
+            .then(html =&gt; {
+                document.getElementById(&quot;content&quot;).innerHTML = html;
             })
             .catch(error =&gt; console.error(&quot;Fehler:&quot;, error));
     }

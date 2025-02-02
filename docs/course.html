@@ -173,6 +173,12 @@
 			
 			
 			
+			<li class="active">
+				<a  href="course.html">Online Kurs</a>
+			</li>
+			
+			
+			
 			<li>
 				<a class="scrollTo" href="#contact">Kontakt</a>
 			</li>
@@ -216,10 +222,10 @@
 		
 <header id="page-title">
 	<div class="container">
-		<h1>Course</h1>
+		<h1>Sacred Sexuality</h1>
 		<ul class="breadcrumb">
 			<li><a href="index.html">Home</a></li>
-			<li class="active">Course</li>
+			<li class="active">Sacred Sexuality</li>
 		</ul>
 	</div>
 </header>
@@ -356,6 +362,17 @@ document.addEventListener("click", function(event) {
             .then(html => {
                 document.getElementById("content").innerHTML = html;
                 loadRegisterForm();
+            })
+            .catch(error => console.error("Fehler:", error));
+    }
+	if (event.target && event.target.id === "course-link") {
+        event.preventDefault();
+       
+		const url = event.target.href;
+        fetch(url)
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("content").innerHTML = html;
             })
             .catch(error => console.error("Fehler:", error));
     }
