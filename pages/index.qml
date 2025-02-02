@@ -381,8 +381,9 @@ Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, w
 	Workshops
 &lt;/p&gt;
 &lt;p&gt;  
-Auch bei Workshops freue ich mich über deine Wertschätzung.  
-Bitte denke daran, dass die Durchführung von Workshops einige Kosten mit sich bringt – z. B. für die Heizung, die ich in Euro begleichen muss.  
+Auch bei Workshops freue ich mich über deine Wertschätzung.&lt;br&gt;
+Ich werde euch auch hier 75,- € pro Stunde und Teilnehmer berechnen.&lt;br&gt;
+Lasst uns gerne über Mengenrabatt im Vorraus reden.
 &lt;br/&gt;&lt;br/&gt;  
 Wenn du Interesse an einem Workshop hast, schlage doch einfach ein paar Freunde oder Bekannte vor, die mitmachen möchten. Wir finden dann gemeinsam einen passenden Termin!  
 &lt;/p&gt;

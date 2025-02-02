@@ -382,9 +382,10 @@ Content {
 	Workshops
 &lt;/p&gt;
 &lt;p&gt;
-	I also extend this offer to workshops.&lt;br/&gt;
-	Please keep in mind that I need to keep the heating on during these sessions, and at the moment, I can only cover this in Euros.&lt;br/&gt;
-	&lt;br/&gt;
+	I also appreciate your support for workshops.&lt;br&gt;
+	I will charge €75 per hour per participant here as well.&lt;br&gt;
+	Let’s discuss bulk discounts in advance.
+	&lt;br&gt;&lt;br&gt;
 	That said, I won&#x27;t schedule fixed workshop dates. Instead, gather a few friends or acquaintances who might be interested, and we can arrange a suitable date together.
 &lt;/p&gt;
 &lt;/div&gt;"
