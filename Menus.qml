@@ -34,8 +34,8 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Online Kurs'
-            url: 'course.html'
+            title: 'Online Kurse'
+            url: 'https://artoftouch.info'
             icon: ''
             attributes: ''
         }
@@ -95,8 +95,8 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Online-Course'
-            url: 'course.html'
+            title: 'Online Courses'
+            url: 'https://artoftouch.info'
             icon: ''
             attributes: ''
         }
@@ -156,8 +156,8 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Online-Kurs'
-            url: 'course.html'
+            title: 'Online Kurse'
+            url: 'https://artoftouch.info'
             icon: ''
             attributes: ''
         }
@@ -217,8 +217,8 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Online-Course'
-            url: 'course.html'
+            title: 'Online Courses'
+            url: 'https://artoftouch.info'
             icon: ''
             attributes: ''
         }
@@ -278,8 +278,8 @@ Menus {
             attributes: ''
         }
         Menuitem {
-            title: 'Online-Course'
-            url: 'course.html'
+            title: 'Online Course'
+            url: 'https://artoftouch.info'
             icon: ''
             attributes: ''
         }
