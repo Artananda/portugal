@@ -371,7 +371,7 @@ Content {
 &lt;/p&gt;
 &lt;p&gt;  
 Mein Anliegen ist es, Menschen mit meiner Gabe zu helfen – das steht für mich an erster Stelle.&lt;br&gt;
-Dennoch berechne ich Dir für meine Zeit 75,- € pro Stunde.  
+Dennoch berechne ich Dir für meine Zeit 75,- € pro Stunde oder du gibst mir 120 &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org/de&quot;&gt;Minutos&lt;/a&gt; und 15,- € für Öl, Heizung und Mietanteil.  
 &lt;br/&gt;&lt;br/&gt;  
 &lt;strong&gt;Interessiert?&lt;/strong&gt;&lt;br&gt;  
 Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, wie ich dich am besten unterstützen kann.  
@@ -382,7 +382,7 @@ Buche jetzt ein unverbindliches Vorgespräch, und wir finden gemeinsam heraus, w
 &lt;/p&gt;
 &lt;p&gt;  
 Auch bei Workshops freue ich mich über deine Wertschätzung.&lt;br&gt;
-Ich werde euch auch hier 75,- € pro Stunde und Teilnehmer berechnen.&lt;br&gt;
+Ich werde euch auch hier 75,- € pro Stunde und Teilnehmer berechnen. Das mit den 120 &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org/de&quot;&gt;Minutos&lt;/a&gt; gilt natürlich auch hier.&lt;br&gt;
 Lasst uns gerne über Mengenrabatt im Vorraus reden.
 &lt;br/&gt;&lt;br/&gt;  
 Wenn du Interesse an einem Workshop hast, schlage doch einfach ein paar Freunde oder Bekannte vor, die mitmachen möchten. Wir finden dann gemeinsam einen passenden Termin!  

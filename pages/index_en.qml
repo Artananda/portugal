@@ -371,7 +371,7 @@ Content {
 &lt;/p&gt;
 &lt;p&gt;
 	My goal is to help people with my gift – this is my top priority.&lt;br/&gt;
-	Nevertheless I will charge you 75,- € per hour for my time.&lt;br&gt;&lt;br&gt;
+	Nevertheless I will charge you 75,- € per hour for my time or you just give me 120 &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org/en&quot;&gt;Minutos&lt;/a&gt; plus 15,- € for oil, heating and rent.&lt;br&gt;&lt;br&gt;
 
 
 	&lt;strong&gt;Curious?&lt;/strong&gt;&lt;br/&gt;
@@ -383,7 +383,7 @@ Content {
 &lt;/p&gt;
 &lt;p&gt;
 	I also appreciate your support for workshops.&lt;br&gt;
-	I will charge €75 per hour per participant here as well.&lt;br&gt;
+	I will charge €75 per hour per participant here as well. Here I also accept &lt;a target=&quot;_blank&quot; href=&quot;https://minuto.org/en&quot;&gt;Minutos&lt;/a&gt;.&lt;br&gt;
 	Let’s discuss bulk discounts in advance.
 	&lt;br&gt;&lt;br&gt;
 	That said, I won&#x27;t schedule fixed workshop dates. Instead, gather a few friends or acquaintances who might be interested, and we can arrange a suitable date together.
